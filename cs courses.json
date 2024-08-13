@@ -1,1 +1,1920 @@
-[{"code": "COMPSCI 1DM3", "title": "Discrete Mathematics for Computer Science", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718", "description": "Sets, functions, relations, trees and graphs; counting principles, modular arithmetic, discrete probabilities; induction and recursion, recurrence relations.", "prerequisites": ["Prerequisite(s): One of the following:", "\u2022 Registration in Computer Science 1 and one of MATH 1B03\u00a0, 1ZC3", "\u2022 One of MATH 1B03\u00a0, 1ZC3\u00a0\u00a0with a result of at least B"], "antirequisites": ["Antirequisite(s): COMPSCI 1FC3, 2DM3, SFWRENG 2DM3\u00a0, 2E03, 2F03"], "units": "3", "schedule": "Three lectures, one tutorial (two hours), second term; may be offered also in the first term", "courseText": ["COMPSCI 1DM3 - Discrete Mathematics for Computer Science 3 unit(s)", "Sets, functions, relations, trees and graphs; counting principles, modular arithmetic, discrete probabilities; induction and recursion, recurrence relations.", "Three lectures, one tutorial (two hours), second term; may be offered also in the first term", "Prerequisite(s): One of the following:", "\u2022 Registration in Computer Science 1 and one of MATH 1B03\u00a0, 1ZC3", "\u2022 One of MATH 1B03\u00a0, 1ZC3\u00a0\u00a0with a result of at least B", "Antirequisite(s): COMPSCI 1FC3, 2DM3, SFWRENG 2DM3\u00a0, 2E03, 2F03"], "prereq_links": [{"code": "MATH 1B03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"}, {"code": "1ZC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"}, {"code": "MATH 1B03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"}, {"code": "1ZC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"}], "antireq_links": [{"code": "SFWRENG 2DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"}]}, {"code": "COMPSCI 1JC3", "title": "Introduction to Computational Thinking", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829", "description": "Exploration of thinking that is inspired, supported, and enabled by computing. Survey of the salient ideas, methods, and technologies in the major areas of computing including basic data types, logic, operating systems, computer networking, web computing, information security, digital media, software development, and problem solving techniques. Introduction to the fundamentals of functional programming.", "prerequisites": ["Prerequisite(s): One of MATH 1K03\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration in Computer Science 1"], "antirequisites": [], "units": "3", "schedule": "Three lectures, one tutorial (two hours), first term; may be offered also in the second term (Computer Science students need to take this course in the first term)", "courseText": ["COMPSCI 1JC3 - Introduction to Computational Thinking 3 unit(s)", "Exploration of thinking that is inspired, supported, and enabled by computing. Survey of the salient ideas, methods, and technologies in the major areas of computing including basic data types, logic, operating systems, computer networking, web computing, information security, digital media, software development, and problem solving techniques. Introduction to the fundamentals of functional programming.", "Three lectures, one tutorial (two hours), first term; may be offered also in the second term (Computer Science students need to take this course in the first term)", "Prerequisite(s): One of MATH 1K03\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration in Computer Science 1"], "prereq_links": [{"code": "MATH 1K03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278235"}], "antireq_links": []}, {"code": "COMPSCI 1MD3", "title": "Introduction to Programming", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830", "description": "Introduction to fundamental programming concepts: values and types, expressions and evaluation, control flow constructs and exceptions, recursion, input/output and file processing.", "prerequisites": ["Prerequisite(s): One of MATH 1K03\u00a0, 1LS3\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration or credit in ARTSSCI 1D06 A/B"], "antirequisites": ["Antirequisite(s): ENGINEER 1D04, 1P13 A/B\u00a0, IBEHS 1P10 A/B\u00a0, MATH 1MP3"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); first term; may be offered also in the second term (Computer Science students need to take this course in the first term)", "courseText": ["COMPSCI 1MD3 - Introduction to Programming 3 unit(s)", "Introduction to fundamental programming concepts: values and types, expressions and evaluation, control flow constructs and exceptions, recursion, input/output and file processing.", "Three lectures, one tutorial (one hour); first term; may be offered also in the second term (Computer Science students need to take this course in the first term)", "Prerequisite(s): One of MATH 1K03\u00a0, 1LS3\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration or credit in ARTSSCI 1D06 A/B", "Antirequisite(s): ENGINEER 1D04, 1P13 A/B\u00a0, IBEHS 1P10 A/B\u00a0, MATH 1MP3"], "prereq_links": [{"code": "MATH 1K03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278235"}, {"code": "1LS3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278236"}, {"code": "ARTSSCI 1D06 A/B", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278405"}], "antireq_links": [{"code": "1P13 A/B", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280969"}, {"code": "IBEHS 1P10 A/B", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280199"}, {"code": "MATH 1MP3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"}]}, {"code": "COMPSCI 1XC3", "title": "Computer Science Practice and Experience: Development Basics", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719", "description": "Acquiring familiarity with professional software development settings via practical experience with interaction with UNIX-like systems, programming in C, with documentation, testing, benchmarking, profiling and debugging; shell interaction and programming, pipes and filters; revision control.", "prerequisites": ["Prerequisite(s): One of the following:", "\u2022 COMPSCI 1MD3\u00a0\u00a0and registration in Computer Science 1", "\u2022 One of COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3\u00a0\u00a0with a result of at least B", "\u2022 One of ENGINEER 1D04 or 1P13 A/B\u00a0, or IBEHS 1P10 A/B\u00a0\u00a0with a result of at least B, and registration in Level II or above of an Engineering program other than Software Engineering, Mechatronics Engineering, Electrical Engineering, and Computer Engineering"], "antirequisites": ["Antirequisite(s): COMPENG 2SH4\u00a0, COMPSCI 1XA3, 2XA3, 2S03, MECHTRON 2MP3\u00a0, SFWRENG 2MP3, 2S03, 2XA3, 2XC3"], "units": "3", "schedule": "Two lectures, two labs (two hours each); second term; may be offered also in the first term", "courseText": ["COMPSCI 1XC3 - Computer Science Practice and Experience: Development Basics 3 unit(s)", "Acquiring familiarity with professional software development settings via practical experience with interaction with UNIX-like systems, programming in C, with documentation, testing, benchmarking, profiling and debugging; shell interaction and programming, pipes and filters; revision control.", "Two lectures, two labs (two hours each); second term; may be offered also in the first term", "Prerequisite(s): One of the following:", "\u2022 COMPSCI 1MD3\u00a0\u00a0and registration in Computer Science 1", "\u2022 One of COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3\u00a0\u00a0with a result of at least B", "\u2022 One of ENGINEER 1D04 or 1P13 A/B\u00a0, or IBEHS 1P10 A/B\u00a0\u00a0with a result of at least B, and registration in Level II or above of an Engineering program other than Software Engineering, Mechatronics Engineering, Electrical Engineering, and Computer Engineering", "Antirequisite(s): COMPENG 2SH4\u00a0, COMPSCI 1XA3, 2XA3, 2S03, MECHTRON 2MP3\u00a0, SFWRENG 2MP3, 2S03, 2XA3, 2XC3"], "prereq_links": [{"code": "COMPSCI 1MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"}, {"code": "COMPSCI 1MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"}, {"code": "MATH 1MP3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"}, {"code": "1P13 A/B", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280969"}, {"code": "IBEHS 1P10 A/B", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280199"}], "antireq_links": [{"code": "COMPENG 2SH4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278817"}, {"code": "MECHTRON 2MP3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281005"}, {"code": "2XC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281008"}]}, {"code": "COMPSCI 1XD3", "title": "Computer Science Practice and Experience: Introduction to Software Design Using Web Programming", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720", "description": "Introduction to different aspects of design: Identifying user needs, goals and desires and translating them into software, and structuring and communicating the structure of software to improve reliability, readability and adaptability. Topics include web languages and protocols, types and design patterns.", "prerequisites": ["Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0and registration in Computer Science 1, or COMPSCI 1JC3\u00a0\u00a0with a result of at least B; COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3"], "antirequisites": ["Antirequisite(s): COMPSCI 1XA3"], "units": "3", "schedule": "Two lectures, two labs (two hours each); second term; may be offered also in the first term", "courseText": ["COMPSCI 1XD3 - Computer Science Practice and Experience: Introduction to Software Design Using Web Programming 3 unit(s)", "Introduction to different aspects of design: Identifying user needs, goals and desires and translating them into software, and structuring and communicating the structure of software to improve reliability, readability and adaptability. Topics include web languages and protocols, types and design patterns.", "Two lectures, two labs (two hours each); second term; may be offered also in the first term", "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0and registration in Computer Science 1, or COMPSCI 1JC3\u00a0\u00a0with a result of at least B; COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3", "Antirequisite(s): COMPSCI 1XA3"], "prereq_links": [{"code": "COMPSCI 1JC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"}, {"code": "COMPSCI 1JC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"}, {"code": "COMPSCI 1MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"}, {"code": "MATH 1MP3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"}], "antireq_links": []}, {"code": "COMPSCI 2AC3", "title": "Automata and Computability", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721", "description": "Finite state machines, regular languages, regular expressions, applications of regular languages, grammars, context-free languages, models of computation, computability and decidability.", "prerequisites": ["Prerequisite(s): COMPSCI 2LC3\u00a0, 2C03"], "antirequisites": ["Antirequisite(s): COMPSCI 2FA3, 2MJ3, SFWRENG 2FA3"], "units": "3", "schedule": "Three lectures, one tutorial (two hours); second term; may be offered also in the first term", "courseText": ["COMPSCI 2AC3 - Automata and Computability 3 unit(s)", "Finite state machines, regular languages, regular expressions, applications of regular languages, grammars, context-free languages, models of computation, computability and decidability.", "Three lectures, one tutorial (two hours); second term; may be offered also in the first term", "Prerequisite(s): COMPSCI 2LC3\u00a0, 2C03", "Antirequisite(s): COMPSCI 2FA3, 2MJ3, SFWRENG 2FA3"], "prereq_links": [{"code": "COMPSCI 2LC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"}, {"code": "2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}], "antireq_links": [{"code": "SFWRENG 2FA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279707"}]}, {"code": "COMPSCI 2C03", "title": "Data Structures and Algorithms", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832", "description": "Basic data structures: stacks, queues, hash tables, and binary trees; searching and sorting; graph representations and algorithms, including minimum spanning trees, traversals, shortest paths; introduction to algorithmic design strategies; correctness and performance analysis.", "prerequisites": ["Prerequisite(s):", "\u2022 COMPSCI 1DM3\u00a0\u00a0or 2DM3; COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0\u00a0or 1MD3\u00a0\u00a0or MATH 1MP3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."], "antirequisites": ["Antirequisite(s): SFWRENG 2C03\u00a0, COMPENG 3SM4"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); first term; may be offered also in the first term", "courseText": ["COMPSCI 2C03 - Data Structures and Algorithms 3 unit(s)", "Basic data structures: stacks, queues, hash tables, and binary trees; searching and sorting; graph representations and algorithms, including minimum spanning trees, traversals, shortest paths; introduction to algorithmic design strategies; correctness and performance analysis.", "Three lectures, one tutorial (one hour); first term; may be offered also in the first term", "Prerequisite(s):", "\u2022 COMPSCI 1DM3\u00a0\u00a0or 2DM3; COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0\u00a0or 1MD3\u00a0\u00a0or MATH 1MP3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.", "Antirequisite(s): SFWRENG 2C03\u00a0, COMPENG 3SM4"], "prereq_links": [{"code": "COMPSCI 1DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"}, {"code": "COMPSCI 1XC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"}, {"code": "1XD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"}, {"code": "1MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"}, {"code": "MATH 1MP3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"}], "antireq_links": [{"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "COMPENG 3SM4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281012"}]}, {"code": "COMPSCI 2DB3", "title": "Databases", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722", "description": "Data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, query processing, transactions, concurrency control, recovery, security and data storage.", "prerequisites": ["Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or COMPSCI 2DM3"], "antirequisites": ["Antirequisite(s): COMPSCI 3DB3, 4DB3, SFWRENG 3DB3\u00a0, 3H03, 4M03, 4DB3"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); second term; may be offered also in the first term", "courseText": ["COMPSCI 2DB3 - Databases 3 unit(s)", "Data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, query processing, transactions, concurrency control, recovery, security and data storage.", "Three lectures, one tutorial (one hour); second term; may be offered also in the first term", "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or COMPSCI 2DM3", "Antirequisite(s): COMPSCI 3DB3, 4DB3, SFWRENG 3DB3\u00a0, 3H03, 4M03, 4DB3"], "prereq_links": [{"code": "COMPSCI 2LC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"}], "antireq_links": [{"code": "SFWRENG 3DB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280030"}]}, {"code": "COMPSCI 2GA3", "title": "Computer Architecture", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833", "description": "Introduction to logic gates, computer arithmetic, instruction-set architecture, assembly programming, translation of high-level languages into assembly. Computer system organization: datapath and control, pipelining, memory hierarchies, I/O systems; measures of performance.", "prerequisites": ["Prerequisite(s): One of the following:", "COMPSCI 1XC3\u00a0\u00a0and 1DM3\u00a0\u00a0and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."], "antirequisites": ["Antirequisite(s): COMPENG 3DR4, 4DM4\u00a0, SFWRENG 2GA3\u00a0, 3GA3"], "units": "3", "schedule": "Three lectures, one tutorial, (one hour); first term; may be offered also in the second term", "courseText": ["COMPSCI 2GA3 - Computer Architecture 3 unit(s)", "Introduction to logic gates, computer arithmetic, instruction-set architecture, assembly programming, translation of high-level languages into assembly. Computer system organization: datapath and control, pipelining, memory hierarchies, I/O systems; measures of performance.", "Three lectures, one tutorial, (one hour); first term; may be offered also in the second term", "Prerequisite(s): One of the following:", "COMPSCI 1XC3\u00a0\u00a0and 1DM3\u00a0\u00a0and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.", "Antirequisite(s): COMPENG 3DR4, 4DM4\u00a0, SFWRENG 2GA3\u00a0, 3GA3"], "prereq_links": [{"code": "1DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"}], "antireq_links": [{"code": "4DM4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278821"}, {"code": "SFWRENG 2GA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279940"}]}, {"code": "COMPSCI 2LC3", "title": "Logical Reasoning for Computer Science", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723", "description": "Introduction to logic and proof techniques for practical reasoning: propositional logic, predicate logic, structural induction; rigorous proofs in discrete mathematics and programming.", "prerequisites": ["Prerequisite(s):\u00a0COMPSCI 1DM3\u00a0, 1JC3\u00a0; one of COMPSCI 1MD3\u00a0, 1XC3\u00a0, 1XD3\u00a0, MATH 1MP3\u00a0, and registration in Mathematics and Computer Science or, in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."], "antirequisites": ["Antirequisite(s): COMPSCI 2DM3, SFWRENG 2DM3"], "units": "3", "schedule": "Three lectures, one tutorial (two hours); first term; may be offered also in the second term", "courseText": ["COMPSCI 2LC3 - Logical Reasoning for Computer Science 3 unit(s)", "Introduction to logic and proof techniques for practical reasoning: propositional logic, predicate logic, structural induction; rigorous proofs in discrete mathematics and programming.", "Three lectures, one tutorial (two hours); first term; may be offered also in the second term", "Prerequisite(s):\u00a0COMPSCI 1DM3\u00a0, 1JC3\u00a0; one of COMPSCI 1MD3\u00a0, 1XC3\u00a0, 1XD3\u00a0, MATH 1MP3\u00a0, and registration in Mathematics and Computer Science or, in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.", "Antirequisite(s): COMPSCI 2DM3, SFWRENG 2DM3"], "prereq_links": [{"code": "COMPSCI 1DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"}, {"code": "1JC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"}, {"code": "COMPSCI 1MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"}, {"code": "1XC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"}, {"code": "1XD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"}, {"code": "MATH 1MP3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"}], "antireq_links": [{"code": "SFWRENG 2DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"}]}, {"code": "COMPSCI 2ME3", "title": "Introduction to Software Development", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835", "description": "Classes and inheritance, class invariants, interface specifications; object-oriented design patterns; exception handling; tools for interface documentation, testing, program analysis; requirements documentation; quality attributes; development models.", "prerequisites": ["Prerequisite(s):\u00a0COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science", "Co-requisite(s): COMPSCI 2LC3"], "antirequisites": ["Antirequisite(s): SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04"], "units": "3", "schedule": "Three lectures one tutorial (two hours); first term; may be offered also in the second term", "courseText": ["COMPSCI 2ME3 - Introduction to Software Development 3 unit(s)", "Classes and inheritance, class invariants, interface specifications; object-oriented design patterns; exception handling; tools for interface documentation, testing, program analysis; requirements documentation; quality attributes; development models.", "Three lectures one tutorial (two hours); first term; may be offered also in the second term", "Prerequisite(s):\u00a0COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science", "Co-requisite(s): COMPSCI 2LC3", "Antirequisite(s): SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04"], "prereq_links": [{"code": "COMPSCI 1XC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"}, {"code": "1XD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"}, {"code": "COMPSCI 2LC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"}], "antireq_links": [{"code": "SFWRENG 2AA4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"}, {"code": "SFWRENG 3K04", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279716"}, {"code": "MECHTRON 3K04", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280832"}]}, {"code": "COMPSCI 2SD3", "title": "Concurrent Systems", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724", "description": "Models of concurrency: process algebras, Petri nets, temporal logics and model checking; concurrency as software structuring principle: processes, threads, synchronization mechanisms, resource management and sharing; deadlock, safety and liveness; design, verification and testing of concurrent systems.", "prerequisites": ["Prerequisite(s): COMPSCI 2C03\u00a0, 2LC3\u00a0\u00a0or 2DM3, 2ME3", "Co-requisite(s): COMPSCI 2AC3"], "antirequisites": ["Antirequisite(s): COMPSCI 3SD3, SFWRENG 3BB4"], "units": "3", "schedule": "Three lectures, one tutorial (two hours); second term; may be offered also in the first term", "courseText": ["COMPSCI 2SD3 - Concurrent Systems 3 unit(s)", "Models of concurrency: process algebras, Petri nets, temporal logics and model checking; concurrency as software structuring principle: processes, threads, synchronization mechanisms, resource management and sharing; deadlock, safety and liveness; design, verification and testing of concurrent systems.", "Three lectures, one tutorial (two hours); second term; may be offered also in the first term", "Prerequisite(s): COMPSCI 2C03\u00a0, 2LC3\u00a0\u00a0or 2DM3, 2ME3", "Co-requisite(s): COMPSCI 2AC3", "Antirequisite(s): COMPSCI 3SD3, SFWRENG 3BB4"], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "2LC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"}, {"code": "2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}, {"code": "COMPSCI 2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}], "antireq_links": [{"code": "SFWRENG 3BB4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"}]}, {"code": "COMPSCI 2XC3", "title": "Computer Science Practice and Experience: Algorithms and Software Design", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280725", "description": "Implementation of computational solutions to practical problems that combine algorithmic design and analysis with software design principles, through an experiential approach in simulated workplace environments. Communication skills: Technical documentation and presentation.", "prerequisites": ["Prerequisite(s): COMPSCI 1XC3\u00a0,  2C03\u00a0,  2ME3"], "antirequisites": ["Antirequisite(s): COMPSCI 2XB3, SFWRENG 2XB3"], "units": "3", "schedule": "Two lectures, one lab (three hours), second term", "courseText": ["COMPSCI 2XC3 - Computer Science Practice and Experience: Algorithms and Software Design 3 unit(s)", "Implementation of computational solutions to practical problems that combine algorithmic design and analysis with software design principles, through an experiential approach in simulated workplace environments. Communication skills: Technical documentation and presentation.", "Two lectures, one lab (three hours), second term", "Prerequisite(s): COMPSCI 1XC3\u00a0,  2C03\u00a0,  2ME3", "Antirequisite(s): COMPSCI 2XB3, SFWRENG 2XB3"], "prereq_links": [{"code": "COMPSCI 1XC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"}, {"code": " 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": " 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}], "antireq_links": []}, {"code": "COMPSCI 3AC3", "title": "Algorithms and Complexity", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278838", "description": "Basic computability models; the Church-Turing thesis, complexity classes; P versus NP; NP-completeness, reduction techniques; algorithmic design strategies; flows, distributed algorithms, advanced techniques such as randomization.", "prerequisites": ["Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3"], "antirequisites": [], "units": "3", "schedule": "Three lectures, one tutorial (one hour), second term", "courseText": ["COMPSCI 3AC3 - Algorithms and Complexity 3 unit(s)", "Basic computability models; the Church-Turing thesis, complexity classes; P versus NP; NP-completeness, reduction techniques; algorithmic design strategies; flows, distributed algorithms, advanced techniques such as randomization.", "Three lectures, one tutorial (one hour), second term", "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3"], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "COMPSCI 2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}, {"code": "SFWRENG 2FA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279707"}], "antireq_links": []}, {"code": "COMPSCI 3DM3", "title": "Introduction to Data Mining", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281181", "description": "Core techniques in big data analytics (knowledge discovery, data mining). Basic concepts of frequent patterns, algorithms for mining frequent patterns from large scale transactional databases. Clustering and classification: k-means, hierarchical k-means, DB-Scan, Gaussian mixture models, decision trees, Bayesian methods, linear classification methods, support vector machines. Practice of big data analytics in business intelligence: data warehousing, data lakes.", "prerequisites": ["Prerequisite(s):", "\u2022 One of COMPSCI 2DB3\u00a0, COMPSCI 3DB3, SFWRENG 3DB3\u00a0;", "\u2022 one of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0;", "\u2022 one of COMPSCI 2ME3\u00a0, SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04\u00a0;", "\u2022 one of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, IBEHS 4C03", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures; one tutorial (one hour); one term", "courseText": ["COMPSCI 3DM3 - Introduction to Data Mining 3 unit(s)", "Core techniques in big data analytics (knowledge discovery, data mining). Basic concepts of frequent patterns, algorithms for mining frequent patterns from large scale transactional databases. Clustering and classification: k-means, hierarchical k-means, DB-Scan, Gaussian mixture models, decision trees, Bayesian methods, linear classification methods, support vector machines. Practice of big data analytics in business intelligence: data warehousing, data lakes.", "Three lectures; one tutorial (one hour); one term", "Prerequisite(s):", "\u2022 One of COMPSCI 2DB3\u00a0, COMPSCI 3DB3, SFWRENG 3DB3\u00a0;", "\u2022 one of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0;", "\u2022 one of COMPSCI 2ME3\u00a0, SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04\u00a0;", "\u2022 one of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, IBEHS 4C03", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2DB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"}, {"code": "SFWRENG 3DB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280030"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "MECHTRON 2MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"}, {"code": "COMPSCI 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}, {"code": "SFWRENG 2AA4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"}, {"code": "SFWRENG 3K04", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279716"}, {"code": "MECHTRON 3K04", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280832"}, {"code": "STATS 2D03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"}, {"code": "STATS 3Y03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"}, {"code": "IBEHS 3S03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"}], "antireq_links": []}, {"code": "COMPSCI 3DP3", "title": "Data Privacy", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281182", "description": "Basics of data privacy, de-anonymization, membership and reconstruction attacks, differential privacy, privacy-preserving mechanisms, privacy-utility trade-offs and cost of privacy, adaptive data analysis", "prerequisites": ["Prerequisite(s): One of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0; one of STATS 2D03\u00a0, 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03; one of MATH 1B03\u00a0, 1ZC3\u00a0; basic Python programming.", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures; one tutorial (one hour); one term", "courseText": ["COMPSCI 3DP3 - Data Privacy 3 unit(s)", "Basics of data privacy, de-anonymization, membership and reconstruction attacks, differential privacy, privacy-preserving mechanisms, privacy-utility trade-offs and cost of privacy, adaptive data analysis", "Three lectures; one tutorial (one hour); one term", "Prerequisite(s): One of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0; one of STATS 2D03\u00a0, 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03; one of MATH 1B03\u00a0, 1ZC3\u00a0; basic Python programming.", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "MECHTRON 2MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"}, {"code": "STATS 2D03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"}, {"code": "3Y03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"}, {"code": "IBEHS 3S03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"}, {"code": "MATH 1B03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"}, {"code": "1ZC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"}], "antireq_links": []}, {"code": "COMPSCI 3EA3", "title": "Software and System Correctness", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278840", "description": "Formal specifications in software and system development; validation; verification; presentation of information; practical", "prerequisites": ["Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or 2DM3, 2AC3\u00a0\u00a0or 2FA3,  2ME3\u00a0, 2SD3\u00a0\u00a0or 3SD3", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures; one tutorial (one hour); one term", "courseText": ["COMPSCI 3EA3 - Software and System Correctness 3 unit(s)", "Formal specifications in software and system development; validation; verification; presentation of information; practical", "experience in formal specification and tool-supported verification.", "Three lectures; one tutorial (one hour); one term", "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or 2DM3, 2AC3\u00a0\u00a0or 2FA3,  2ME3\u00a0, 2SD3\u00a0\u00a0or 3SD3", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2LC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"}, {"code": "2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}, {"code": " 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}, {"code": "2SD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"}], "antireq_links": []}, {"code": "COMPSCI 3GC3", "title": "Computer Graphics", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278841", "description": "Mathematical foundations, the graphics pipeline, geometrical transformations, 3D visualization, clipping, illumination and shading models and the impact of graphics on society.", "prerequisites": ["Prerequisite(s): MATH 1B03\u00a0\u00a0or 1ZC3\u00a0, and COMPSCI 2C03"], "antirequisites": ["Antirequisite(s): SFWRENG 3GC3"], "units": "3", "schedule": "Three lectures, one tutorial (two hours every other week); one term", "courseText": ["COMPSCI 3GC3 - Computer Graphics 3 unit(s)", "Mathematical foundations, the graphics pipeline, geometrical transformations, 3D visualization, clipping, illumination and shading models and the impact of graphics on society.", "Three lectures, one tutorial (two hours every other week); one term", "Prerequisite(s): MATH 1B03\u00a0\u00a0or 1ZC3\u00a0, and COMPSCI 2C03", "Antirequisite(s): SFWRENG 3GC3", "Offered on an irregular basis."], "prereq_links": [{"code": "MATH 1B03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"}, {"code": "1ZC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}], "antireq_links": [{"code": "SFWRENG 3GC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279715"}]}, {"code": "COMPSCI 3IS3", "title": "Information Security", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278842", "description": "Basic principles of information security; threats and defences; cryptography; introduction to network security and security management.", "prerequisites": ["Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 3SH3\u00a0\u00a0or SFWRENG 3SH3\u00a0\u00a0or 3BB4\u00a0, COMPSCI 3N03\u00a0\u00a0or 4C03\u00a0or SFWRENG 4C04", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures; one term", "courseText": ["COMPSCI 3IS3 - Information Security 3 unit(s)", "Basic principles of information security; threats and defences; cryptography; introduction to network security and security management.", "Three lectures; one term", "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 3SH3\u00a0\u00a0or SFWRENG 3SH3\u00a0\u00a0or 3BB4\u00a0, COMPSCI 3N03\u00a0\u00a0or 4C03\u00a0or SFWRENG 4C04", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}, {"code": "SFWRENG 2FA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279707"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "COMPSCI 3SH3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845"}, {"code": "SFWRENG 3SH3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"}, {"code": "3BB4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"}, {"code": "COMPSCI 3N03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"}], "antireq_links": []}, {"code": "COMPSCI 3MI3", "title": "Principles of Programming Languages", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278843", "description": "Principles of definition of and reasoning about programming languages and domain-specific languages; use of semantics for interpretation and in program analyses for correctness, security and efficiency.", "prerequisites": ["Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2LC3\u00a0\u00a0or 2DM3, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 2ME3"], "antirequisites": [], "units": "3", "schedule": "Three lectures; one tutorial (one hour); first term", "courseText": ["COMPSCI 3MI3 - Principles of Programming Languages 3 unit(s)", "Principles of definition of and reasoning about programming languages and domain-specific languages; use of semantics for interpretation and in program analyses for correctness, security and efficiency.", "Three lectures; one tutorial (one hour); first term", "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2LC3\u00a0\u00a0or 2DM3, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 2ME3"], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "COMPSCI 2LC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"}, {"code": "COMPSCI 2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}, {"code": "COMPSCI 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}], "antireq_links": []}, {"code": "COMPSCI 3N03", "title": "Computer Networks and Security", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726", "description": "Physical networks, TCP/IP protocols, switching methods, network layering and components, network services. Information security, computer and network security threats, defence mechanisms, encryption.", "prerequisites": ["Prerequisite(s): Credit or registration in COMPSCI 3SH3"], "antirequisites": ["Antirequisite(s): COMPSCI 3CN3, 3C03, COMPSCI 4C03, SFWRENG 4C03\u00a0, COMPENG 4DK4\u00a0, COMPENG 4DN4"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); second term", "courseText": ["COMPSCI 3N03 - Computer Networks and Security 3 unit(s)", "Physical networks, TCP/IP protocols, switching methods, network layering and components, network services. Information security, computer and network security threats, defence mechanisms, encryption.", "Three lectures, one tutorial (one hour); second term", "Prerequisite(s): Credit or registration in COMPSCI 3SH3", "Antirequisite(s): COMPSCI 3CN3, 3C03, COMPSCI 4C03, SFWRENG 4C03\u00a0, COMPENG 4DK4\u00a0, COMPENG 4DN4"], "prereq_links": [{"code": "COMPSCI 3SH3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845"}], "antireq_links": [{"code": "SFWRENG 4C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279722"}, {"code": "COMPENG 4DK4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278820"}, {"code": "COMPENG 4DN4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278822"}]}, {"code": "COMPSCI 3RA3", "title": "Software Requirements and Security Considerations", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278844", "description": "Software requirements gathering. Critical systems requirements gathering. Security requirements. Traceability of requirements. Verification, validation, and documentation techniques. Software requirements quality attributes. Security policies. Measures for data confidentiality. Design principles that enhance security. Access control mechanisms.", "prerequisites": ["Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, COMPSCI 2ME3"], "antirequisites": ["Antirequisite(s): SFWRENG 3RA3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program."], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 3RA3 - Software Requirements and Security Considerations 3 unit(s)", "Software requirements gathering. Critical systems requirements gathering. Security requirements. Traceability of requirements. Verification, validation, and documentation techniques. Software requirements quality attributes. Security policies. Measures for data confidentiality. Design principles that enhance security. Access control mechanisms.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, COMPSCI 2ME3", "Antirequisite(s): SFWRENG 3RA3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program."], "prereq_links": [{"code": "COMPSCI 2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}, {"code": "COMPSCI 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}], "antireq_links": [{"code": "SFWRENG 3RA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279717"}]}, {"code": "COMPSCI 3SH3", "title": "Computer Science Practice and Experience: Operating Systems", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845", "description": "Processes and threads, synchronization and communication; scheduling, memory management; file systems; resource protection; structure of operating systems.", "prerequisites": ["Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3, COMPSCI 2C03\u00a0, and COMPSCI 2GA3"], "antirequisites": ["Antirequisite(s): SFWRENG 3SH3"], "units": "3", "schedule": "Two lectures, one tutorial, two labs (one hour each); first term", "courseText": ["COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems 3 unit(s)", "Processes and threads, synchronization and communication; scheduling, memory management; file systems; resource protection; structure of operating systems.", "Two lectures, one tutorial, two labs (one hour each); first term", "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3, COMPSCI 2C03\u00a0, and COMPSCI 2GA3", "Antirequisite(s): SFWRENG 3SH3"], "prereq_links": [{"code": "COMPSCI 2SD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "COMPSCI 2GA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833"}], "antireq_links": [{"code": "SFWRENG 3SH3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"}]}, {"code": "COMPSCI 3TB3", "title": "Syntax-Based Tools and Compilers", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280727", "description": "Lexical analysis, syntax analysis, type checking; syntax-directed translation, attribute grammars; compiler structure; implications of computer architecture; mapping of programming language concepts; code generation and optimization.", "prerequisites": ["Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2GA3\u00a0, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 3MI3", "Antirequisites: COMPSCI 4TB3, SFWRENG 4TB3"], "antirequisites": [], "units": "3", "schedule": "Three lectures, one lab (two hours); second term", "courseText": ["COMPSCI 3TB3 - Syntax-Based Tools and Compilers 3 unit(s)", "Lexical analysis, syntax analysis, type checking; syntax-directed translation, attribute grammars; compiler structure; implications of computer architecture; mapping of programming language concepts; code generation and optimization.", "Three lectures, one lab (two hours); second term", "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2GA3\u00a0, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 3MI3", "Antirequisites: COMPSCI 4TB3, SFWRENG 4TB3"], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "COMPSCI 2GA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833"}, {"code": "COMPSCI 2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}, {"code": "COMPSCI 3MI3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278843"}, {"code": "SFWRENG 4TB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281980"}], "antireq_links": []}, {"code": "COMPSCI 3VA3", "title": "Information Visualization and Visual Analytics", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281963", "description": "The course focuses on building web applications to visualize abstract data (information visualization) and apply computation techniques for analysis (visual analytics). Students will learn practical web application-building skills mixed with data analytics and visualization design theory. We will cover the design principles that consider human perception, cognition, and decision-making and create intuitive interfaces for analyzing data on the web.", "prerequisites": ["Prerequisite(s): COMPSCI 1XD3\u00a0, 2C03\u00a0, 2DB3\u00a0, 2ME3", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures, one tutorial (one hour); first term", "courseText": ["COMPSCI 3VA3 - Information Visualization and Visual Analytics 3 unit(s)", "The course focuses on building web applications to visualize abstract data (information visualization) and apply computation techniques for analysis (visual analytics). Students will learn practical web application-building skills mixed with data analytics and visualization design theory. We will cover the design principles that consider human perception, cognition, and decision-making and create intuitive interfaces for analyzing data on the web.", "Three lectures, one tutorial (one hour); first term", "Prerequisite(s): COMPSCI 1XD3\u00a0, 2C03\u00a0, 2DB3\u00a0, 2ME3", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 1XD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"}, {"code": "2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "2DB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"}, {"code": "2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}], "antireq_links": []}, {"code": "COMPSCI 4AD3", "title": "Advanced Databases", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280029", "description": "Advanced topics in database systems technology and design. Topics include: query processing; query optimization; data storage; indexing; crash recovery; physical database design; introductory data mining techniques.", "prerequisites": ["Prerequisite(s): COMPSCI 2DB3\u00a0\u00a0or 3DB3"], "antirequisites": ["Antirequisite(s): SFWRENG 4AD3"], "units": "3", "schedule": "Three lectures, one tutorial; one term", "courseText": ["COMPSCI 4AD3 - Advanced Databases 3 unit(s)", "Advanced topics in database systems technology and design. Topics include: query processing; query optimization; data storage; indexing; crash recovery; physical database design; introductory data mining techniques.", "Three lectures, one tutorial; one term", "Prerequisite(s): COMPSCI 2DB3\u00a0\u00a0or 3DB3", "Antirequisite(s): SFWRENG 4AD3", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2DB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"}], "antireq_links": [{"code": "SFWRENG 4AD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280034"}]}, {"code": "COMPSCI 4AL3", "title": "Applications of Machine Learning", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281970", "description": "Overview of data engineering. Human-computation architectures. Supervised approaches (neural networks). Unsupervised approaches (clustering/topic modelling). Human-in-the-loop approaches (reinforcement learning).", "prerequisites": ["Prerequisite(s): COMPSCI 2C03\u00a0, COMPSCI 2ME3\u00a0, STATS 2D03\u00a0\u00a0or 3Y03"], "antirequisites": ["Antirequisite(s): SFWRENG 4AL3"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); first term", "courseText": ["COMPSCI 4AL3 - Applications of Machine Learning 3 unit(s)", "Overview of data engineering. Human-computation architectures. Supervised approaches (neural networks). Unsupervised approaches (clustering/topic modelling). Human-in-the-loop approaches (reinforcement learning).", "Three lectures, one tutorial (one hour); first term", "Prerequisite(s): COMPSCI 2C03\u00a0, COMPSCI 2ME3\u00a0, STATS 2D03\u00a0\u00a0or 3Y03", "Antirequisite(s): SFWRENG 4AL3"], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "COMPSCI 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}, {"code": "STATS 2D03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"}, {"code": "3Y03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"}], "antireq_links": [{"code": "SFWRENG 4AL3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281979"}]}, {"code": "COMPSCI 4AR3", "title": "Software Architecture", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280360", "description": "Software architecture concepts; architectural styles; design patterns, components, libraries, configurations; modelling languages; software re-engineering.", "prerequisites": ["Prerequisite(s): Credit or registration in COMPSCI 3RA3", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures, one tutorial; one term", "courseText": ["COMPSCI 4AR3 - Software Architecture 3 unit(s)", "Software architecture concepts; architectural styles; design patterns, components, libraries, configurations; modelling languages; software re-engineering.", "Three lectures, one tutorial; one term", "Prerequisite(s): Credit or registration in COMPSCI 3RA3", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 3RA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278844"}], "antireq_links": []}, {"code": "COMPSCI 4CR3", "title": "Applied Cryptography", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281977", "description": "Stream ciphers, Block ciphers, Hash functions, Public-key cryptography (RSA, Discrete logarithm, Elliptic curves), digital signatures, and some discussions on post-quantum cryptography.", "prerequisites": ["Prerequisite(s): MATH 1B03\u00a0\u00a0or MATH 1ZC3\u00a0; COMPSCI 1DM3\u00a0\u00a0or SFWRENG 2DM3\u00a0; COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03"], "antirequisites": ["Antirequisite(s): COMPSCI 3IS3"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4CR3 - Applied Cryptography 3 unit(s)", "Stream ciphers, Block ciphers, Hash functions, Public-key cryptography (RSA, Discrete logarithm, Elliptic curves), digital signatures, and some discussions on post-quantum cryptography.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): MATH 1B03\u00a0\u00a0or MATH 1ZC3\u00a0; COMPSCI 1DM3\u00a0\u00a0or SFWRENG 2DM3\u00a0; COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03", "Antirequisite(s): COMPSCI 3IS3", "Offered on an irregular basis."], "prereq_links": [{"code": "MATH 1B03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"}, {"code": "MATH 1ZC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"}, {"code": "COMPSCI 1DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"}, {"code": "SFWRENG 2DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}], "antireq_links": [{"code": "COMPSCI 3IS3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278842"}]}, {"code": "COMPSCI 4DC3", "title": "Distributed Computing", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280566", "description": "Models of distributed computation, formal reasoning about distributed systems, time and message complexity, distributed agreement under adversarial attacks, distributed coordination and symmetry breaking, peer-to-peer computing, simulation as a tool for building more advanced functionality, actor-model programming.", "prerequisites": ["Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3, and one of COMPSCI 2SD3\u00a0\u00a0or 3SD3\u00a0or SFWRENG 3BB4\u00a0\u00a0or SFWRENG 3SH3", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures, one tutorial; one term", "courseText": ["COMPSCI 4DC3 - Distributed Computing 3 unit(s)", "Models of distributed computation, formal reasoning about distributed systems, time and message complexity, distributed agreement under adversarial attacks, distributed coordination and symmetry breaking, peer-to-peer computing, simulation as a tool for building more advanced functionality, actor-model programming.", "Three lectures, one tutorial; one term", "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3, and one of COMPSCI 2SD3\u00a0\u00a0or 3SD3\u00a0or SFWRENG 3BB4\u00a0\u00a0or SFWRENG 3SH3", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "COMPSCI 2SD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"}, {"code": "SFWRENG 3BB4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"}, {"code": "SFWRENG 3SH3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"}], "antireq_links": []}, {"code": "COMPSCI 4E03", "title": "Performance Analysis of Computer Systems", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279819", "description": "Use of queuing models and simulation to predict computer system performance and find bottlenecks in a system. Types of models, distributions. Markov models. Modelling storage and network behaviour, locks, critical sections, concurrency. Introduction to analytical system reliability.", "prerequisites": ["Prerequisite(s): One of STATS 2D03\u00a0, 2MA3, 3N03 or 3Y03\u00a0, or IBEHS 3S03\u00a0\u00a0or 4C03; COMPSCI 2C03"], "antirequisites": ["Antirequisite(s): SFWRENG 4E03\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program."], "units": "3", "schedule": "Three lectures, one tutorial (one hour); second term", "courseText": ["COMPSCI 4E03 - Performance Analysis of Computer Systems 3 unit(s)", "Use of queuing models and simulation to predict computer system performance and find bottlenecks in a system. Types of models, distributions. Markov models. Modelling storage and network behaviour, locks, critical sections, concurrency. Introduction to analytical system reliability.", "Three lectures, one tutorial (one hour); second term", "Prerequisite(s): One of STATS 2D03\u00a0, 2MA3, 3N03 or 3Y03\u00a0, or IBEHS 3S03\u00a0\u00a0or 4C03; COMPSCI 2C03", "Antirequisite(s): SFWRENG 4E03\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program."], "prereq_links": [{"code": "STATS 2D03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"}, {"code": "3Y03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"}, {"code": "IBEHS 3S03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}], "antireq_links": [{"code": "SFWRENG 4E03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279724"}]}, {"code": "COMPSCI 4EN3", "title": "Software Entrepreneurship", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278847", "description": "Issues in starting up a new software enterprise, with the focus on independent startups. This course will cover the technical, financial, legal and operational issues encountered by software startups. Small groups of students will take an idea and turn it into a prototype, a business plan, and a sales pitch. Lectures will cover issues from team formation to appropriate software development processes to patent protection to venture capital.", "prerequisites": ["Prerequisite(s): Registration in Level III or IV of any Computer Science program", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures; one term", "courseText": ["COMPSCI 4EN3 - Software Entrepreneurship 3 unit(s)", "Issues in starting up a new software enterprise, with the focus on independent startups. This course will cover the technical, financial, legal and operational issues encountered by software startups. Small groups of students will take an idea and turn it into a prototype, a business plan, and a sales pitch. Lectures will cover issues from team formation to appropriate software development processes to patent protection to venture capital.", "Three lectures; one term", "Prerequisite(s): Registration in Level III or IV of any Computer Science program", "Offered on an irregular basis."], "prereq_links": [], "antireq_links": []}, {"code": "COMPSCI 4F03", "title": "Parallel Computing", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278848", "description": "Parallel architectures, design and analysis of parallel algorithms; distributed-memory, shared-memory and GPU computing; communication cost, scalability; MPI, OpenMP and OpenACC; tuning parallel programs for performance.", "prerequisites": ["Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3. Completion of COMPSCI 3N03\u00a0\u00a0or 4C03 is recommended."], "antirequisites": ["Antirequisite(s): SFWRENG 4F03"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4F03 - Parallel Computing 3 unit(s)", "Parallel architectures, design and analysis of parallel algorithms; distributed-memory, shared-memory and GPU computing; communication cost, scalability; MPI, OpenMP and OpenACC; tuning parallel programs for performance.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3. Completion of COMPSCI 3N03\u00a0\u00a0or 4C03 is recommended.", "Antirequisite(s): SFWRENG 4F03", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2SD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"}, {"code": "COMPSCI 3N03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"}], "antireq_links": [{"code": "SFWRENG 4F03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279725"}]}, {"code": "COMPSCI 4FP3", "title": "Functional Programming", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281183", "description": "A selection of topics in advanced functional programming (focusing on Haskell and its derivatives). Example topics: Techniques for embedded domain-specific languages, generic and type-level programming, reasoning about programs, and (co)effects.", "prerequisites": ["Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0or SFWRENG 3FP3\u00a0, COMPSCI 1XC3\u00a0\u00a0or SFWRENG 2S03 or SFWRENG 2XC3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2LC3\u00a0\u00a0or 2DM3 or SFWRENG 2DM3\u00a0, COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4", "Antirequisites: COMPSCI 3FP3", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4FP3 - Functional Programming 3 unit(s)", "A selection of topics in advanced functional programming (focusing on Haskell and its derivatives). Example topics: Techniques for embedded domain-specific languages, generic and type-level programming, reasoning about programs, and (co)effects.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0or SFWRENG 3FP3\u00a0, COMPSCI 1XC3\u00a0\u00a0or SFWRENG 2S03 or SFWRENG 2XC3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2LC3\u00a0\u00a0or 2DM3 or SFWRENG 2DM3\u00a0, COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4", "Antirequisites: COMPSCI 3FP3", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 1JC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"}, {"code": "SFWRENG 3FP3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280031"}, {"code": "COMPSCI 1XC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"}, {"code": "SFWRENG 2XC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281008"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "COMPSCI 2LC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"}, {"code": "SFWRENG 2DM3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"}, {"code": "COMPSCI 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}, {"code": "SFWRENG 2AA4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"}], "antireq_links": []}, {"code": "COMPSCI 4HC3", "title": "Human Computer Interfaces", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278849", "description": "Design of user interfaces. Principles of good interface design. Task-oriented design. User experience design. Inclusive design. Communicating with graphics. Modes and mode awareness problem. Human cognition (memory, perception, motor systems). Help systems. Interface design tools.", "prerequisites": ["Prerequisite(s): COMPSCI 2C03"], "antirequisites": ["Antirequisite(s): SFWRENG 4D03,  4HC3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4HC3 - Human Computer Interfaces 3 unit(s)", "Design of user interfaces. Principles of good interface design. Task-oriented design. User experience design. Inclusive design. Communicating with graphics. Modes and mode awareness problem. Human cognition (memory, perception, motor systems). Help systems. Interface design tools.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): COMPSCI 2C03", "Antirequisite(s): SFWRENG 4D03,  4HC3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program"], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}], "antireq_links": [{"code": " 4HC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279727"}]}, {"code": "COMPSCI 4ML3", "title": "Fundamentals of Machine Learning", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280567", "description": "Regression, Classification and Decision Theory, Bias-Variance Trade-off, Linear Models, Kernel Methods, Probabilistic Models, Neural Networks, Model Aggregation, Unsupervised Learning.", "prerequisites": ["Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3. One of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03. One of MATH 1B03\u00a0\u00a0or 1ZC3\u00a0. One of COMPSCI 4O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0or SFWRENG 3O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0is recommended."], "antirequisites": ["Antirequisite(s): COMPENG 4SL3, 4SL4"], "units": "3", "schedule": "Three lectures, one tutorial; one term", "courseText": ["COMPSCI 4ML3 - Fundamentals of Machine Learning 3 unit(s)", "Regression, Classification and Decision Theory, Bias-Variance Trade-off, Linear Models, Kernel Methods, Probabilistic Models, Neural Networks, Model Aggregation, Unsupervised Learning.", "Three lectures, one tutorial; one term", "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3. One of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03. One of MATH 1B03\u00a0\u00a0or 1ZC3\u00a0. One of COMPSCI 4O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0or SFWRENG 3O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0is recommended.", "Antirequisite(s): COMPENG 4SL3, 4SL4", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "STATS 2D03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"}, {"code": "STATS 3Y03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"}, {"code": "IBEHS 3S03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"}, {"code": "MATH 1B03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"}, {"code": "1ZC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"}, {"code": "COMPSCI 4O03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278850"}, {"code": "4TE3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278853"}, {"code": "4X03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278855"}, {"code": "SFWRENG 3O03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280032"}, {"code": "4TE3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279730"}, {"code": "4X03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280035"}], "antireq_links": [{"code": "4SL4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281190"}]}, {"code": "COMPSCI 4O03", "title": "Linear Optimization", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278850", "description": "Modelling and solutions for engineering and science problems using linear optimization, including networks, transportation, assignment, and scheduling problems. Solution methods include combinatorial algorithms such as simplex methods, primal-dual formulations, branch and bound formulations for mixed integer programming, and heuristics.", "prerequisites": ["Prerequisite(s): COMPSCI 2C03"], "antirequisites": ["Antirequisite(s): SFWRENG 3O03\u00a0, 4O03. Not open to students in a Software Engineering or Mechatronics Engineering program"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); first term", "courseText": ["COMPSCI 4O03 - Linear Optimization 3 unit(s)", "Modelling and solutions for engineering and science problems using linear optimization, including networks, transportation, assignment, and scheduling problems. Solution methods include combinatorial algorithms such as simplex methods, primal-dual formulations, branch and bound formulations for mixed integer programming, and heuristics.", "Three lectures, one tutorial (one hour); first term", "Prerequisite(s): COMPSCI 2C03", "Antirequisite(s): SFWRENG 3O03\u00a0, 4O03. Not open to students in a Software Engineering or Mechatronics Engineering program"], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}], "antireq_links": [{"code": "SFWRENG 3O03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280032"}]}, {"code": "COMPSCI 4SD3", "title": "Data-Driven Algorithms for Sequential Decision Making", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281974", "description": "Problems and algorithmic solutions in sequential decision making based on data, as appear in many applications including online ad-placement, A/B testing for software services, financial portfolio management, medical trials, and more. Topics include best-arm identification, multi-armed bandit problems and solutions, online learning, prediction with expert advice, and optimal stopping problems", "prerequisites": ["Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or MECHTRON 2MD3\u00a0; STATS 2D03\u00a0\u00a0or 3Y03", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4SD3 - Data-Driven Algorithms for Sequential Decision Making 3 unit(s)", "Problems and algorithmic solutions in sequential decision making based on data, as appear in many applications including online ad-placement, A/B testing for software services, financial portfolio management, medical trials, and more. Topics include best-arm identification, multi-armed bandit problems and solutions, online learning, prediction with expert advice, and optimal stopping problems", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or MECHTRON 2MD3\u00a0; STATS 2D03\u00a0\u00a0or 3Y03", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "SFWRENG 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"}, {"code": "MECHTRON 2MD3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"}, {"code": "STATS 2D03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"}, {"code": "3Y03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"}], "antireq_links": []}, {"code": "COMPSCI 4TE3", "title": "Continuous Optimization", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278853", "description": "Fundamental algorithms and duality concepts of continuous optimization. Motivation, applicability, information requirements and computational cost of the algorithms is discussed. Practical problems will illustrate the power of continuous optimization techniques.", "prerequisites": ["Prerequisite(s): One of MATH 2A03 or 2ZZ3"], "antirequisites": ["Antirequisite(s): SFWRENG 4TE3\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4TE3 - Continuous Optimization 3 unit(s)", "Fundamental algorithms and duality concepts of continuous optimization. Motivation, applicability, information requirements and computational cost of the algorithms is discussed. Practical problems will illustrate the power of continuous optimization techniques.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): One of MATH 2A03 or 2ZZ3", "Antirequisite(s): SFWRENG 4TE3\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program", "Offered on an irregular basis."], "prereq_links": [{"code": "2ZZ3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278249"}], "antireq_links": [{"code": "SFWRENG 4TE3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279730"}]}, {"code": "COMPSCI 4TH3", "title": "Theory of Computation", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280387", "description": "Formal languages, models of computation, decidability, reduction techniques, time and space complexity classes.", "prerequisites": ["Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, 2C03"], "antirequisites": ["Antirequisite(s): SFWRENG 4TH3"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4TH3 - Theory of Computation 3 unit(s)", "Formal languages, models of computation, decidability, reduction techniques, time and space complexity classes.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, 2C03", "Antirequisite(s): SFWRENG 4TH3", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2AC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"}, {"code": "2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}], "antireq_links": [{"code": "SFWRENG 4TH3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280485"}]}, {"code": "COMPSCI 4TI3", "title": "Fundamentals of Image Processing", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280361", "description": "Discrete-time signals and systems, digital filter design, photons to pixels, linear filtering, edge-detection, non-linear filtering, multi-scale transforms, motion estimation.", "prerequisites": ["Prerequisite(s): Registration in Level III or above of a program offered by the Department of Computing and Software", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures; one term", "courseText": ["COMPSCI 4TI3 - Fundamentals of Image Processing 3 unit(s)", "Discrete-time signals and systems, digital filter design, photons to pixels, linear filtering, edge-detection, non-linear filtering, multi-scale transforms, motion estimation.", "Three lectures; one term", "Prerequisite(s): Registration in Level III or above of a program offered by the Department of Computing and Software", "Offered on an irregular basis."], "prereq_links": [], "antireq_links": []}, {"code": "COMPSCI 4WW3", "title": "Web Systems and Web Computing", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278854", "description": "Network protocols underlying the world wide web; client-side programming: markup, styles, scripts, design, mobile/desktop; server-side programming: databases, dynamic languages; web services; cloud technologies; security.", "prerequisites": ["Prerequisite(s): COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4\u00a0; completion of COMPSCI 2DB3\u00a0\u00a0or 2DB3\u00a0, 3IS3\u00a0, or 3N03\u00a0\u00a0or 4C03\u00a0is recommended.", "Offered on an irregular basis."], "antirequisites": [], "units": "3", "schedule": "Three lectures; one term", "courseText": ["COMPSCI 4WW3 - Web Systems and Web Computing 3 unit(s)", "Network protocols underlying the world wide web; client-side programming: markup, styles, scripts, design, mobile/desktop; server-side programming: databases, dynamic languages; web services; cloud technologies; security.", "Three lectures; one term", "Prerequisite(s): COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4\u00a0; completion of COMPSCI 2DB3\u00a0\u00a0or 2DB3\u00a0, 3IS3\u00a0, or 3N03\u00a0\u00a0or 4C03\u00a0is recommended.", "Offered on an irregular basis."], "prereq_links": [{"code": "COMPSCI 2ME3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"}, {"code": "SFWRENG 2AA4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"}, {"code": "COMPSCI 2DB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"}, {"code": "2DB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"}, {"code": "3IS3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278842"}, {"code": "3N03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"}], "antireq_links": []}, {"code": "COMPSCI 4X03", "title": "Scientific Computation", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278855", "description": "Computer arithmetic, stability, sensitivity. Numerical methods for polynomial manipulation, interpolation, data fitting, integration, differentiation, solving linear and non-linear systems, ordinary differential equations and eigenvalue problems.", "prerequisites": ["Prerequisite(s): MATH 1AA3\u00a0\u00a0or 1ZB3\u00a0, and MATH 1B03\u00a0\u00a0or 1ZC3\u00a0; COMPSCI 2C03\u00a0; One of MATH 2C03\u00a0\u00a0or 2Z03\u00a0\u00a0is recommended."], "antirequisites": ["Antirequisite(s): COMPENG 3SK3\u00a0, 3SK4, MECHTRON 3X03\u00a0, SFWRENG 3X03, 4X03\u00a0. MECHTRON 3X03\u00a0, MATH 3NA3\u00a0, 4NA3, CHEMENG 2E04\u00a0, CIVENG 2E03\u00a0, ENGPHYS 2CE4, 3NM4\u00a0, MECHENG 3F04\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"], "units": "3", "schedule": "Three lectures, one tutorial (one hour); one term", "courseText": ["COMPSCI 4X03 - Scientific Computation 3 unit(s)", "Computer arithmetic, stability, sensitivity. Numerical methods for polynomial manipulation, interpolation, data fitting, integration, differentiation, solving linear and non-linear systems, ordinary differential equations and eigenvalue problems.", "Three lectures, one tutorial (one hour); one term", "Prerequisite(s): MATH 1AA3\u00a0\u00a0or 1ZB3\u00a0, and MATH 1B03\u00a0\u00a0or 1ZC3\u00a0; COMPSCI 2C03\u00a0; One of MATH 2C03\u00a0\u00a0or 2Z03\u00a0\u00a0is recommended.", "Antirequisite(s): COMPENG 3SK3\u00a0, 3SK4, MECHTRON 3X03\u00a0, SFWRENG 3X03, 4X03\u00a0. MECHTRON 3X03\u00a0, MATH 3NA3\u00a0, 4NA3, CHEMENG 2E04\u00a0, CIVENG 2E03\u00a0, ENGPHYS 2CE4, 3NM4\u00a0, MECHENG 3F04\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"], "prereq_links": [{"code": "MATH 1AA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278231"}, {"code": "1ZB3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278241"}, {"code": "MATH 1B03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"}, {"code": "1ZC3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"}, {"code": "COMPSCI 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"}, {"code": "MATH 2C03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278243"}, {"code": "2Z03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278248"}], "antireq_links": [{"code": "COMPENG 3SK3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278819"}, {"code": "MECHTRON 3X03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281184"}, {"code": "4X03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280035"}, {"code": "MECHTRON 3X03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281184"}, {"code": "MATH 3NA3", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280222"}, {"code": "CHEMENG 2E04", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280557"}, {"code": "CIVENG 2E03", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279824"}, {"code": "3NM4", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280585"}, {"code": "MECHENG 3F04", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278294"}]}, {"code": "COMPSCI 4Z03", "title": "Directed Readings", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278856", "description": "Directed readings in an area of computer science of interest to the student and the instructor.", "prerequisites": ["Prerequisite(s): Departmental permission, and registration in Level IV of an Honours program in Computer Science.", "Interested students need to work out a proposal with a faculty member of the Department of Computing and Software"], "antirequisites": [], "units": "3", "schedule": null, "courseText": ["COMPSCI 4Z03 - Directed Readings 3 unit(s)", "Directed readings in an area of computer science of interest to the student and the instructor.", "Prerequisite(s): Departmental permission, and registration in Level IV of an Honours program in Computer Science.", "Interested students need to work out a proposal with a faculty member of the Department of Computing and Software"], "prereq_links": [], "antireq_links": []}, {"code": "COMPSCI 4ZP6 A/B", "title": "Capstone Project", "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278857", "description": "Students, in teams of two to four students, undertake a substantial project in an area of computer science by performing each step of the software life cycle. The lecture component presents an introduction to software management and project management.", "prerequisites": ["Prerequisite(s): Registration in Level IV of an Honours Computer Science program, of an Honours Computer Science as a Second Degree (B.A.Sc.) program, or of the Combined Honours in Arts & Science and Computer Science program"], "antirequisites": [], "units": "6", "schedule": null, "courseText": ["COMPSCI 4ZP6 A/B - Capstone Project 6 unit(s)", "Students, in teams of two to four students, undertake a substantial project in an area of computer science by performing each step of the software life cycle. The lecture component presents an introduction to software management and project management.", "Lecture component in term 1, weekly tutorials; two terms", "Prerequisite(s): Registration in Level IV of an Honours Computer Science program, of an Honours Computer Science as a Second Degree (B.A.Sc.) program, or of the Combined Honours in Arts & Science and Computer Science program"], "prereq_links": [], "antireq_links": []}]
+[
+  {
+    "code": "COMPSCI 1DM3",
+    "title": "Discrete Mathematics for Computer Science",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718",
+    "description": "Sets, functions, relations, trees and graphs; counting principles, modular arithmetic, discrete probabilities; induction and recursion, recurrence relations.",
+    "prerequisites": [
+      "Prerequisite(s): One of the following:",
+      "\u2022 Registration in Computer Science 1 and one of MATH 1B03\u00a0, 1ZC3",
+      "\u2022 One of MATH 1B03\u00a0, 1ZC3\u00a0\u00a0with a result of at least B"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): COMPSCI 1FC3, 2DM3, SFWRENG 2DM3\u00a0, 2E03, 2F03"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (two hours), second term; may be offered also in the first term",
+    "courseText": [
+      "COMPSCI 1DM3 - Discrete Mathematics for Computer Science 3 unit(s)",
+      "Sets, functions, relations, trees and graphs; counting principles, modular arithmetic, discrete probabilities; induction and recursion, recurrence relations.",
+      "Three lectures, one tutorial (two hours), second term; may be offered also in the first term",
+      "Prerequisite(s): One of the following:",
+      "\u2022 Registration in Computer Science 1 and one of MATH 1B03\u00a0, 1ZC3",
+      "\u2022 One of MATH 1B03\u00a0, 1ZC3\u00a0\u00a0with a result of at least B",
+      "Antirequisite(s): COMPSCI 1FC3, 2DM3, SFWRENG 2DM3\u00a0, 2E03, 2F03"
+    ],
+    "prereq_links": [
+      {
+        "code": "MATH 1B03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+      },
+      {
+        "code": "1ZC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+      },
+      {
+        "code": "MATH 1B03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+      },
+      {
+        "code": "1ZC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 2DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 1JC3",
+    "title": "Introduction to Computational Thinking",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829",
+    "description": "Exploration of thinking that is inspired, supported, and enabled by computing. Survey of the salient ideas, methods, and technologies in the major areas of computing including basic data types, logic, operating systems, computer networking, web computing, information security, digital media, software development, and problem solving techniques. Introduction to the fundamentals of functional programming.",
+    "prerequisites": [
+      "Prerequisite(s): One of MATH 1K03\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration in Computer Science 1"
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (two hours), first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+    "courseText": [
+      "COMPSCI 1JC3 - Introduction to Computational Thinking 3 unit(s)",
+      "Exploration of thinking that is inspired, supported, and enabled by computing. Survey of the salient ideas, methods, and technologies in the major areas of computing including basic data types, logic, operating systems, computer networking, web computing, information security, digital media, software development, and problem solving techniques. Introduction to the fundamentals of functional programming.",
+      "Three lectures, one tutorial (two hours), first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+      "Prerequisite(s): One of MATH 1K03\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration in Computer Science 1"
+    ],
+    "prereq_links": [
+      {
+        "code": "MATH 1K03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278235"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 1MD3",
+    "title": "Introduction to Programming",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830",
+    "description": "Introduction to fundamental programming concepts: values and types, expressions and evaluation, control flow constructs and exceptions, recursion, input/output and file processing.",
+    "prerequisites": [
+      "Prerequisite(s): One of MATH 1K03\u00a0, 1LS3\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration or credit in ARTSSCI 1D06 A/B"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): ENGINEER 1D04, 1P13 A/B\u00a0, IBEHS 1P10 A/B\u00a0, MATH 1MP3"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+    "courseText": [
+      "COMPSCI 1MD3 - Introduction to Programming 3 unit(s)",
+      "Introduction to fundamental programming concepts: values and types, expressions and evaluation, control flow constructs and exceptions, recursion, input/output and file processing.",
+      "Three lectures, one tutorial (one hour); first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+      "Prerequisite(s): One of MATH 1K03\u00a0, 1LS3\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration or credit in ARTSSCI 1D06 A/B",
+      "Antirequisite(s): ENGINEER 1D04, 1P13 A/B\u00a0, IBEHS 1P10 A/B\u00a0, MATH 1MP3"
+    ],
+    "prereq_links": [
+      {
+        "code": "MATH 1K03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278235"
+      },
+      {
+        "code": "1LS3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278236"
+      },
+      {
+        "code": "ARTSSCI 1D06 A/B",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278405"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "1P13 A/B",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280969"
+      },
+      {
+        "code": "IBEHS 1P10 A/B",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280199"
+      },
+      {
+        "code": "MATH 1MP3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 1XC3",
+    "title": "Computer Science Practice and Experience: Development Basics",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719",
+    "description": "Acquiring familiarity with professional software development settings via practical experience with interaction with UNIX-like systems, programming in C, with documentation, testing, benchmarking, profiling and debugging; shell interaction and programming, pipes and filters; revision control.",
+    "prerequisites": [
+      "Prerequisite(s): One of the following:",
+      "\u2022 COMPSCI 1MD3\u00a0\u00a0and registration in Computer Science 1",
+      "\u2022 One of COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3\u00a0\u00a0with a result of at least B",
+      "\u2022 One of ENGINEER 1D04 or 1P13 A/B\u00a0, or IBEHS 1P10 A/B\u00a0\u00a0with a result of at least B, and registration in Level II or above of an Engineering program other than Software Engineering, Mechatronics Engineering, Electrical Engineering, and Computer Engineering"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): COMPENG 2SH4\u00a0, COMPSCI 1XA3, 2XA3, 2S03, MECHTRON 2MP3\u00a0, SFWRENG 2MP3, 2S03, 2XA3, 2XC3"
+    ],
+    "units": "3",
+    "schedule": "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+    "courseText": [
+      "COMPSCI 1XC3 - Computer Science Practice and Experience: Development Basics 3 unit(s)",
+      "Acquiring familiarity with professional software development settings via practical experience with interaction with UNIX-like systems, programming in C, with documentation, testing, benchmarking, profiling and debugging; shell interaction and programming, pipes and filters; revision control.",
+      "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+      "Prerequisite(s): One of the following:",
+      "\u2022 COMPSCI 1MD3\u00a0\u00a0and registration in Computer Science 1",
+      "\u2022 One of COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3\u00a0\u00a0with a result of at least B",
+      "\u2022 One of ENGINEER 1D04 or 1P13 A/B\u00a0, or IBEHS 1P10 A/B\u00a0\u00a0with a result of at least B, and registration in Level II or above of an Engineering program other than Software Engineering, Mechatronics Engineering, Electrical Engineering, and Computer Engineering",
+      "Antirequisite(s): COMPENG 2SH4\u00a0, COMPSCI 1XA3, 2XA3, 2S03, MECHTRON 2MP3\u00a0, SFWRENG 2MP3, 2S03, 2XA3, 2XC3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+      },
+      {
+        "code": "COMPSCI 1MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+      },
+      {
+        "code": "MATH 1MP3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+      },
+      {
+        "code": "1P13 A/B",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280969"
+      },
+      {
+        "code": "IBEHS 1P10 A/B",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280199"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "COMPENG 2SH4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278817"
+      },
+      {
+        "code": "MECHTRON 2MP3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281005"
+      },
+      {
+        "code": "2XC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281008"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 1XD3",
+    "title": "Computer Science Practice and Experience: Introduction to Software Design Using Web Programming",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720",
+    "description": "Introduction to different aspects of design: Identifying user needs, goals and desires and translating them into software, and structuring and communicating the structure of software to improve reliability, readability and adaptability. Topics include web languages and protocols, types and design patterns.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0and registration in Computer Science 1, or COMPSCI 1JC3\u00a0\u00a0with a result of at least B; COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3"
+    ],
+    "antirequisites": ["Antirequisite(s): COMPSCI 1XA3"],
+    "units": "3",
+    "schedule": "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+    "courseText": [
+      "COMPSCI 1XD3 - Computer Science Practice and Experience: Introduction to Software Design Using Web Programming 3 unit(s)",
+      "Introduction to different aspects of design: Identifying user needs, goals and desires and translating them into software, and structuring and communicating the structure of software to improve reliability, readability and adaptability. Topics include web languages and protocols, types and design patterns.",
+      "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+      "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0and registration in Computer Science 1, or COMPSCI 1JC3\u00a0\u00a0with a result of at least B; COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3",
+      "Antirequisite(s): COMPSCI 1XA3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1JC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"
+      },
+      {
+        "code": "COMPSCI 1JC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"
+      },
+      {
+        "code": "COMPSCI 1MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+      },
+      {
+        "code": "MATH 1MP3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 2AC3",
+    "title": "Automata and Computability",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721",
+    "description": "Finite state machines, regular languages, regular expressions, applications of regular languages, grammars, context-free languages, models of computation, computability and decidability.",
+    "prerequisites": ["Prerequisite(s): COMPSCI 2LC3\u00a0, 2C03"],
+    "antirequisites": ["Antirequisite(s): COMPSCI 2FA3, 2MJ3, SFWRENG 2FA3"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (two hours); second term; may be offered also in the first term",
+    "courseText": [
+      "COMPSCI 2AC3 - Automata and Computability 3 unit(s)",
+      "Finite state machines, regular languages, regular expressions, applications of regular languages, grammars, context-free languages, models of computation, computability and decidability.",
+      "Three lectures, one tutorial (two hours); second term; may be offered also in the first term",
+      "Prerequisite(s): COMPSCI 2LC3\u00a0, 2C03",
+      "Antirequisite(s): COMPSCI 2FA3, 2MJ3, SFWRENG 2FA3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2LC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+      },
+      {
+        "code": "2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 2FA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279707"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 2C03",
+    "title": "Data Structures and Algorithms",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832",
+    "description": "Basic data structures: stacks, queues, hash tables, and binary trees; searching and sorting; graph representations and algorithms, including minimum spanning trees, traversals, shortest paths; introduction to algorithmic design strategies; correctness and performance analysis.",
+    "prerequisites": [
+      "Prerequisite(s):",
+      "\u2022 COMPSCI 1DM3\u00a0\u00a0or 2DM3; COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0\u00a0or 1MD3\u00a0\u00a0or MATH 1MP3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."
+    ],
+    "antirequisites": ["Antirequisite(s): SFWRENG 2C03\u00a0, COMPENG 3SM4"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); first term; may be offered also in the first term",
+    "courseText": [
+      "COMPSCI 2C03 - Data Structures and Algorithms 3 unit(s)",
+      "Basic data structures: stacks, queues, hash tables, and binary trees; searching and sorting; graph representations and algorithms, including minimum spanning trees, traversals, shortest paths; introduction to algorithmic design strategies; correctness and performance analysis.",
+      "Three lectures, one tutorial (one hour); first term; may be offered also in the first term",
+      "Prerequisite(s):",
+      "\u2022 COMPSCI 1DM3\u00a0\u00a0or 2DM3; COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0\u00a0or 1MD3\u00a0\u00a0or MATH 1MP3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.",
+      "Antirequisite(s): SFWRENG 2C03\u00a0, COMPENG 3SM4"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"
+      },
+      {
+        "code": "COMPSCI 1XC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+      },
+      {
+        "code": "1XD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+      },
+      {
+        "code": "1MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+      },
+      {
+        "code": "MATH 1MP3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "COMPENG 3SM4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281012"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 2DB3",
+    "title": "Databases",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722",
+    "description": "Data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, query processing, transactions, concurrency control, recovery, security and data storage.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or COMPSCI 2DM3"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): COMPSCI 3DB3, 4DB3, SFWRENG 3DB3\u00a0, 3H03, 4M03, 4DB3"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); second term; may be offered also in the first term",
+    "courseText": [
+      "COMPSCI 2DB3 - Databases 3 unit(s)",
+      "Data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, query processing, transactions, concurrency control, recovery, security and data storage.",
+      "Three lectures, one tutorial (one hour); second term; may be offered also in the first term",
+      "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or COMPSCI 2DM3",
+      "Antirequisite(s): COMPSCI 3DB3, 4DB3, SFWRENG 3DB3\u00a0, 3H03, 4M03, 4DB3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2LC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 3DB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280030"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 2GA3",
+    "title": "Computer Architecture",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833",
+    "description": "Introduction to logic gates, computer arithmetic, instruction-set architecture, assembly programming, translation of high-level languages into assembly. Computer system organization: datapath and control, pipelining, memory hierarchies, I/O systems; measures of performance.",
+    "prerequisites": [
+      "Prerequisite(s): One of the following:",
+      "COMPSCI 1XC3\u00a0\u00a0and 1DM3\u00a0\u00a0and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."
+    ],
+    "antirequisites": [
+      "Antirequisite(s): COMPENG 3DR4, 4DM4\u00a0, SFWRENG 2GA3\u00a0, 3GA3"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial, (one hour); first term; may be offered also in the second term",
+    "courseText": [
+      "COMPSCI 2GA3 - Computer Architecture 3 unit(s)",
+      "Introduction to logic gates, computer arithmetic, instruction-set architecture, assembly programming, translation of high-level languages into assembly. Computer system organization: datapath and control, pipelining, memory hierarchies, I/O systems; measures of performance.",
+      "Three lectures, one tutorial, (one hour); first term; may be offered also in the second term",
+      "Prerequisite(s): One of the following:",
+      "COMPSCI 1XC3\u00a0\u00a0and 1DM3\u00a0\u00a0and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.",
+      "Antirequisite(s): COMPENG 3DR4, 4DM4\u00a0, SFWRENG 2GA3\u00a0, 3GA3"
+    ],
+    "prereq_links": [
+      {
+        "code": "1DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "4DM4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278821"
+      },
+      {
+        "code": "SFWRENG 2GA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279940"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 2LC3",
+    "title": "Logical Reasoning for Computer Science",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723",
+    "description": "Introduction to logic and proof techniques for practical reasoning: propositional logic, predicate logic, structural induction; rigorous proofs in discrete mathematics and programming.",
+    "prerequisites": [
+      "Prerequisite(s):\u00a0COMPSCI 1DM3\u00a0, 1JC3\u00a0; one of COMPSCI 1MD3\u00a0, 1XC3\u00a0, 1XD3\u00a0, MATH 1MP3\u00a0, and registration in Mathematics and Computer Science or, in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."
+    ],
+    "antirequisites": ["Antirequisite(s): COMPSCI 2DM3, SFWRENG 2DM3"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (two hours); first term; may be offered also in the second term",
+    "courseText": [
+      "COMPSCI 2LC3 - Logical Reasoning for Computer Science 3 unit(s)",
+      "Introduction to logic and proof techniques for practical reasoning: propositional logic, predicate logic, structural induction; rigorous proofs in discrete mathematics and programming.",
+      "Three lectures, one tutorial (two hours); first term; may be offered also in the second term",
+      "Prerequisite(s):\u00a0COMPSCI 1DM3\u00a0, 1JC3\u00a0; one of COMPSCI 1MD3\u00a0, 1XC3\u00a0, 1XD3\u00a0, MATH 1MP3\u00a0, and registration in Mathematics and Computer Science or, in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.",
+      "Antirequisite(s): COMPSCI 2DM3, SFWRENG 2DM3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"
+      },
+      {
+        "code": "1JC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"
+      },
+      {
+        "code": "COMPSCI 1MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+      },
+      {
+        "code": "1XC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+      },
+      {
+        "code": "1XD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+      },
+      {
+        "code": "MATH 1MP3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 2DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 2ME3",
+    "title": "Introduction to Software Development",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835",
+    "description": "Classes and inheritance, class invariants, interface specifications; object-oriented design patterns; exception handling; tools for interface documentation, testing, program analysis; requirements documentation; quality attributes; development models.",
+    "prerequisites": [
+      "Prerequisite(s):\u00a0COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science",
+      "Co-requisite(s): COMPSCI 2LC3"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04"
+    ],
+    "units": "3",
+    "schedule": "Three lectures one tutorial (two hours); first term; may be offered also in the second term",
+    "courseText": [
+      "COMPSCI 2ME3 - Introduction to Software Development 3 unit(s)",
+      "Classes and inheritance, class invariants, interface specifications; object-oriented design patterns; exception handling; tools for interface documentation, testing, program analysis; requirements documentation; quality attributes; development models.",
+      "Three lectures one tutorial (two hours); first term; may be offered also in the second term",
+      "Prerequisite(s):\u00a0COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science",
+      "Co-requisite(s): COMPSCI 2LC3",
+      "Antirequisite(s): SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1XC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+      },
+      {
+        "code": "1XD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+      },
+      {
+        "code": "COMPSCI 2LC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 2AA4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"
+      },
+      {
+        "code": "SFWRENG 3K04",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279716"
+      },
+      {
+        "code": "MECHTRON 3K04",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280832"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 2SD3",
+    "title": "Concurrent Systems",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724",
+    "description": "Models of concurrency: process algebras, Petri nets, temporal logics and model checking; concurrency as software structuring principle: processes, threads, synchronization mechanisms, resource management and sharing; deadlock, safety and liveness; design, verification and testing of concurrent systems.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2C03\u00a0, 2LC3\u00a0\u00a0or 2DM3, 2ME3",
+      "Co-requisite(s): COMPSCI 2AC3"
+    ],
+    "antirequisites": ["Antirequisite(s): COMPSCI 3SD3, SFWRENG 3BB4"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (two hours); second term; may be offered also in the first term",
+    "courseText": [
+      "COMPSCI 2SD3 - Concurrent Systems 3 unit(s)",
+      "Models of concurrency: process algebras, Petri nets, temporal logics and model checking; concurrency as software structuring principle: processes, threads, synchronization mechanisms, resource management and sharing; deadlock, safety and liveness; design, verification and testing of concurrent systems.",
+      "Three lectures, one tutorial (two hours); second term; may be offered also in the first term",
+      "Prerequisite(s): COMPSCI 2C03\u00a0, 2LC3\u00a0\u00a0or 2DM3, 2ME3",
+      "Co-requisite(s): COMPSCI 2AC3",
+      "Antirequisite(s): COMPSCI 3SD3, SFWRENG 3BB4"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "2LC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+      },
+      {
+        "code": "2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      },
+      {
+        "code": "COMPSCI 2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 3BB4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 2XC3",
+    "title": "Computer Science Practice and Experience: Algorithms and Software Design",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280725",
+    "description": "Implementation of computational solutions to practical problems that combine algorithmic design and analysis with software design principles, through an experiential approach in simulated workplace environments. Communication skills: Technical documentation and presentation.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 1XC3\u00a0,  2C03\u00a0,  2ME3"
+    ],
+    "antirequisites": ["Antirequisite(s): COMPSCI 2XB3, SFWRENG 2XB3"],
+    "units": "3",
+    "schedule": "Two lectures, one lab (three hours), second term",
+    "courseText": [
+      "COMPSCI 2XC3 - Computer Science Practice and Experience: Algorithms and Software Design 3 unit(s)",
+      "Implementation of computational solutions to practical problems that combine algorithmic design and analysis with software design principles, through an experiential approach in simulated workplace environments. Communication skills: Technical documentation and presentation.",
+      "Two lectures, one lab (three hours), second term",
+      "Prerequisite(s): COMPSCI 1XC3\u00a0,  2C03\u00a0,  2ME3",
+      "Antirequisite(s): COMPSCI 2XB3, SFWRENG 2XB3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1XC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+      },
+      {
+        "code": " 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": " 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3AC3",
+    "title": "Algorithms and Complexity",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278838",
+    "description": "Basic computability models; the Church-Turing thesis, complexity classes; P versus NP; NP-completeness, reduction techniques; algorithmic design strategies; flows, distributed algorithms, advanced techniques such as randomization.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3"
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour), second term",
+    "courseText": [
+      "COMPSCI 3AC3 - Algorithms and Complexity 3 unit(s)",
+      "Basic computability models; the Church-Turing thesis, complexity classes; P versus NP; NP-completeness, reduction techniques; algorithmic design strategies; flows, distributed algorithms, advanced techniques such as randomization.",
+      "Three lectures, one tutorial (one hour), second term",
+      "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "COMPSCI 2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      },
+      {
+        "code": "SFWRENG 2FA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279707"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3DM3",
+    "title": "Introduction to Data Mining",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281181",
+    "description": "Core techniques in big data analytics (knowledge discovery, data mining). Basic concepts of frequent patterns, algorithms for mining frequent patterns from large scale transactional databases. Clustering and classification: k-means, hierarchical k-means, DB-Scan, Gaussian mixture models, decision trees, Bayesian methods, linear classification methods, support vector machines. Practice of big data analytics in business intelligence: data warehousing, data lakes.",
+    "prerequisites": [
+      "Prerequisite(s):",
+      "\u2022 One of COMPSCI 2DB3\u00a0, COMPSCI 3DB3, SFWRENG 3DB3\u00a0;",
+      "\u2022 one of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0;",
+      "\u2022 one of COMPSCI 2ME3\u00a0, SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04\u00a0;",
+      "\u2022 one of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, IBEHS 4C03",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 3DM3 - Introduction to Data Mining 3 unit(s)",
+      "Core techniques in big data analytics (knowledge discovery, data mining). Basic concepts of frequent patterns, algorithms for mining frequent patterns from large scale transactional databases. Clustering and classification: k-means, hierarchical k-means, DB-Scan, Gaussian mixture models, decision trees, Bayesian methods, linear classification methods, support vector machines. Practice of big data analytics in business intelligence: data warehousing, data lakes.",
+      "Three lectures; one tutorial (one hour); one term",
+      "Prerequisite(s):",
+      "\u2022 One of COMPSCI 2DB3\u00a0, COMPSCI 3DB3, SFWRENG 3DB3\u00a0;",
+      "\u2022 one of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0;",
+      "\u2022 one of COMPSCI 2ME3\u00a0, SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04\u00a0;",
+      "\u2022 one of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, IBEHS 4C03",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2DB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+      },
+      {
+        "code": "SFWRENG 3DB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280030"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "MECHTRON 2MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"
+      },
+      {
+        "code": "COMPSCI 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      },
+      {
+        "code": "SFWRENG 2AA4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"
+      },
+      {
+        "code": "SFWRENG 3K04",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279716"
+      },
+      {
+        "code": "MECHTRON 3K04",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280832"
+      },
+      {
+        "code": "STATS 2D03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+      },
+      {
+        "code": "STATS 3Y03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+      },
+      {
+        "code": "IBEHS 3S03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3DP3",
+    "title": "Data Privacy",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281182",
+    "description": "Basics of data privacy, de-anonymization, membership and reconstruction attacks, differential privacy, privacy-preserving mechanisms, privacy-utility trade-offs and cost of privacy, adaptive data analysis",
+    "prerequisites": [
+      "Prerequisite(s): One of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0; one of STATS 2D03\u00a0, 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03; one of MATH 1B03\u00a0, 1ZC3\u00a0; basic Python programming.",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 3DP3 - Data Privacy 3 unit(s)",
+      "Basics of data privacy, de-anonymization, membership and reconstruction attacks, differential privacy, privacy-preserving mechanisms, privacy-utility trade-offs and cost of privacy, adaptive data analysis",
+      "Three lectures; one tutorial (one hour); one term",
+      "Prerequisite(s): One of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0; one of STATS 2D03\u00a0, 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03; one of MATH 1B03\u00a0, 1ZC3\u00a0; basic Python programming.",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "MECHTRON 2MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"
+      },
+      {
+        "code": "STATS 2D03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+      },
+      {
+        "code": "3Y03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+      },
+      {
+        "code": "IBEHS 3S03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"
+      },
+      {
+        "code": "MATH 1B03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+      },
+      {
+        "code": "1ZC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3EA3",
+    "title": "Software and System Correctness",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278840",
+    "description": "Formal specifications in software and system development; validation; verification; presentation of information; practical",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or 2DM3, 2AC3\u00a0\u00a0or 2FA3,  2ME3\u00a0, 2SD3\u00a0\u00a0or 3SD3",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 3EA3 - Software and System Correctness 3 unit(s)",
+      "Formal specifications in software and system development; validation; verification; presentation of information; practical",
+      "experience in formal specification and tool-supported verification.",
+      "Three lectures; one tutorial (one hour); one term",
+      "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or 2DM3, 2AC3\u00a0\u00a0or 2FA3,  2ME3\u00a0, 2SD3\u00a0\u00a0or 3SD3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2LC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+      },
+      {
+        "code": "2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      },
+      {
+        "code": " 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      },
+      {
+        "code": "2SD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3GC3",
+    "title": "Computer Graphics",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278841",
+    "description": "Mathematical foundations, the graphics pipeline, geometrical transformations, 3D visualization, clipping, illumination and shading models and the impact of graphics on society.",
+    "prerequisites": [
+      "Prerequisite(s): MATH 1B03\u00a0\u00a0or 1ZC3\u00a0, and COMPSCI 2C03"
+    ],
+    "antirequisites": ["Antirequisite(s): SFWRENG 3GC3"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (two hours every other week); one term",
+    "courseText": [
+      "COMPSCI 3GC3 - Computer Graphics 3 unit(s)",
+      "Mathematical foundations, the graphics pipeline, geometrical transformations, 3D visualization, clipping, illumination and shading models and the impact of graphics on society.",
+      "Three lectures, one tutorial (two hours every other week); one term",
+      "Prerequisite(s): MATH 1B03\u00a0\u00a0or 1ZC3\u00a0, and COMPSCI 2C03",
+      "Antirequisite(s): SFWRENG 3GC3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "MATH 1B03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+      },
+      {
+        "code": "1ZC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 3GC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279715"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 3IS3",
+    "title": "Information Security",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278842",
+    "description": "Basic principles of information security; threats and defences; cryptography; introduction to network security and security management.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 3SH3\u00a0\u00a0or SFWRENG 3SH3\u00a0\u00a0or 3BB4\u00a0, COMPSCI 3N03\u00a0\u00a0or 4C03\u00a0or SFWRENG 4C04",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one term",
+    "courseText": [
+      "COMPSCI 3IS3 - Information Security 3 unit(s)",
+      "Basic principles of information security; threats and defences; cryptography; introduction to network security and security management.",
+      "Three lectures; one term",
+      "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3 or SFWRENG 2FA3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 3SH3\u00a0\u00a0or SFWRENG 3SH3\u00a0\u00a0or 3BB4\u00a0, COMPSCI 3N03\u00a0\u00a0or 4C03\u00a0or SFWRENG 4C04",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      },
+      {
+        "code": "SFWRENG 2FA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279707"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "COMPSCI 3SH3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845"
+      },
+      {
+        "code": "SFWRENG 3SH3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"
+      },
+      {
+        "code": "3BB4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"
+      },
+      {
+        "code": "COMPSCI 3N03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3MI3",
+    "title": "Principles of Programming Languages",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278843",
+    "description": "Principles of definition of and reasoning about programming languages and domain-specific languages; use of semantics for interpretation and in program analyses for correctness, security and efficiency.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2LC3\u00a0\u00a0or 2DM3, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 2ME3"
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one tutorial (one hour); first term",
+    "courseText": [
+      "COMPSCI 3MI3 - Principles of Programming Languages 3 unit(s)",
+      "Principles of definition of and reasoning about programming languages and domain-specific languages; use of semantics for interpretation and in program analyses for correctness, security and efficiency.",
+      "Three lectures; one tutorial (one hour); first term",
+      "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2LC3\u00a0\u00a0or 2DM3, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 2ME3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "COMPSCI 2LC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+      },
+      {
+        "code": "COMPSCI 2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      },
+      {
+        "code": "COMPSCI 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3N03",
+    "title": "Computer Networks and Security",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726",
+    "description": "Physical networks, TCP/IP protocols, switching methods, network layering and components, network services. Information security, computer and network security threats, defence mechanisms, encryption.",
+    "prerequisites": [
+      "Prerequisite(s): Credit or registration in COMPSCI 3SH3"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): COMPSCI 3CN3, 3C03, COMPSCI 4C03, SFWRENG 4C03\u00a0, COMPENG 4DK4\u00a0, COMPENG 4DN4"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); second term",
+    "courseText": [
+      "COMPSCI 3N03 - Computer Networks and Security 3 unit(s)",
+      "Physical networks, TCP/IP protocols, switching methods, network layering and components, network services. Information security, computer and network security threats, defence mechanisms, encryption.",
+      "Three lectures, one tutorial (one hour); second term",
+      "Prerequisite(s): Credit or registration in COMPSCI 3SH3",
+      "Antirequisite(s): COMPSCI 3CN3, 3C03, COMPSCI 4C03, SFWRENG 4C03\u00a0, COMPENG 4DK4\u00a0, COMPENG 4DN4"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 3SH3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 4C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279722"
+      },
+      {
+        "code": "COMPENG 4DK4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278820"
+      },
+      {
+        "code": "COMPENG 4DN4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278822"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 3RA3",
+    "title": "Software Requirements and Security Considerations",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278844",
+    "description": "Software requirements gathering. Critical systems requirements gathering. Security requirements. Traceability of requirements. Verification, validation, and documentation techniques. Software requirements quality attributes. Security policies. Measures for data confidentiality. Design principles that enhance security. Access control mechanisms.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, COMPSCI 2ME3"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): SFWRENG 3RA3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program."
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 3RA3 - Software Requirements and Security Considerations 3 unit(s)",
+      "Software requirements gathering. Critical systems requirements gathering. Security requirements. Traceability of requirements. Verification, validation, and documentation techniques. Software requirements quality attributes. Security policies. Measures for data confidentiality. Design principles that enhance security. Access control mechanisms.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, COMPSCI 2ME3",
+      "Antirequisite(s): SFWRENG 3RA3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      },
+      {
+        "code": "COMPSCI 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 3RA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279717"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 3SH3",
+    "title": "Computer Science Practice and Experience: Operating Systems",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845",
+    "description": "Processes and threads, synchronization and communication; scheduling, memory management; file systems; resource protection; structure of operating systems.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3, COMPSCI 2C03\u00a0, and COMPSCI 2GA3"
+    ],
+    "antirequisites": ["Antirequisite(s): SFWRENG 3SH3"],
+    "units": "3",
+    "schedule": "Two lectures, one tutorial, two labs (one hour each); first term",
+    "courseText": [
+      "COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems 3 unit(s)",
+      "Processes and threads, synchronization and communication; scheduling, memory management; file systems; resource protection; structure of operating systems.",
+      "Two lectures, one tutorial, two labs (one hour each); first term",
+      "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3, COMPSCI 2C03\u00a0, and COMPSCI 2GA3",
+      "Antirequisite(s): SFWRENG 3SH3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2SD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "COMPSCI 2GA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 3SH3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 3TB3",
+    "title": "Syntax-Based Tools and Compilers",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280727",
+    "description": "Lexical analysis, syntax analysis, type checking; syntax-directed translation, attribute grammars; compiler structure; implications of computer architecture; mapping of programming language concepts; code generation and optimization.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2GA3\u00a0, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 3MI3",
+      "Antirequisites: COMPSCI 4TB3, SFWRENG 4TB3"
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one lab (two hours); second term",
+    "courseText": [
+      "COMPSCI 3TB3 - Syntax-Based Tools and Compilers 3 unit(s)",
+      "Lexical analysis, syntax analysis, type checking; syntax-directed translation, attribute grammars; compiler structure; implications of computer architecture; mapping of programming language concepts; code generation and optimization.",
+      "Three lectures, one lab (two hours); second term",
+      "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2GA3\u00a0, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 3MI3",
+      "Antirequisites: COMPSCI 4TB3, SFWRENG 4TB3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "COMPSCI 2GA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833"
+      },
+      {
+        "code": "COMPSCI 2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      },
+      {
+        "code": "COMPSCI 3MI3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278843"
+      },
+      {
+        "code": "SFWRENG 4TB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281980"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 3VA3",
+    "title": "Information Visualization and Visual Analytics",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281963",
+    "description": "The course focuses on building web applications to visualize abstract data (information visualization) and apply computation techniques for analysis (visual analytics). Students will learn practical web application-building skills mixed with data analytics and visualization design theory. We will cover the design principles that consider human perception, cognition, and decision-making and create intuitive interfaces for analyzing data on the web.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 1XD3\u00a0, 2C03\u00a0, 2DB3\u00a0, 2ME3",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); first term",
+    "courseText": [
+      "COMPSCI 3VA3 - Information Visualization and Visual Analytics 3 unit(s)",
+      "The course focuses on building web applications to visualize abstract data (information visualization) and apply computation techniques for analysis (visual analytics). Students will learn practical web application-building skills mixed with data analytics and visualization design theory. We will cover the design principles that consider human perception, cognition, and decision-making and create intuitive interfaces for analyzing data on the web.",
+      "Three lectures, one tutorial (one hour); first term",
+      "Prerequisite(s): COMPSCI 1XD3\u00a0, 2C03\u00a0, 2DB3\u00a0, 2ME3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1XD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+      },
+      {
+        "code": "2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "2DB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+      },
+      {
+        "code": "2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4AD3",
+    "title": "Advanced Databases",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280029",
+    "description": "Advanced topics in database systems technology and design. Topics include: query processing; query optimization; data storage; indexing; crash recovery; physical database design; introductory data mining techniques.",
+    "prerequisites": ["Prerequisite(s): COMPSCI 2DB3\u00a0\u00a0or 3DB3"],
+    "antirequisites": ["Antirequisite(s): SFWRENG 4AD3"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial; one term",
+    "courseText": [
+      "COMPSCI 4AD3 - Advanced Databases 3 unit(s)",
+      "Advanced topics in database systems technology and design. Topics include: query processing; query optimization; data storage; indexing; crash recovery; physical database design; introductory data mining techniques.",
+      "Three lectures, one tutorial; one term",
+      "Prerequisite(s): COMPSCI 2DB3\u00a0\u00a0or 3DB3",
+      "Antirequisite(s): SFWRENG 4AD3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2DB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 4AD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280034"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4AL3",
+    "title": "Applications of Machine Learning",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281970",
+    "description": "Overview of data engineering. Human-computation architectures. Supervised approaches (neural networks). Unsupervised approaches (clustering/topic modelling). Human-in-the-loop approaches (reinforcement learning).",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2C03\u00a0, COMPSCI 2ME3\u00a0, STATS 2D03\u00a0\u00a0or 3Y03"
+    ],
+    "antirequisites": ["Antirequisite(s): SFWRENG 4AL3"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); first term",
+    "courseText": [
+      "COMPSCI 4AL3 - Applications of Machine Learning 3 unit(s)",
+      "Overview of data engineering. Human-computation architectures. Supervised approaches (neural networks). Unsupervised approaches (clustering/topic modelling). Human-in-the-loop approaches (reinforcement learning).",
+      "Three lectures, one tutorial (one hour); first term",
+      "Prerequisite(s): COMPSCI 2C03\u00a0, COMPSCI 2ME3\u00a0, STATS 2D03\u00a0\u00a0or 3Y03",
+      "Antirequisite(s): SFWRENG 4AL3"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "COMPSCI 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      },
+      {
+        "code": "STATS 2D03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+      },
+      {
+        "code": "3Y03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 4AL3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281979"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4AR3",
+    "title": "Software Architecture",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280360",
+    "description": "Software architecture concepts; architectural styles; design patterns, components, libraries, configurations; modelling languages; software re-engineering.",
+    "prerequisites": [
+      "Prerequisite(s): Credit or registration in COMPSCI 3RA3",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial; one term",
+    "courseText": [
+      "COMPSCI 4AR3 - Software Architecture 3 unit(s)",
+      "Software architecture concepts; architectural styles; design patterns, components, libraries, configurations; modelling languages; software re-engineering.",
+      "Three lectures, one tutorial; one term",
+      "Prerequisite(s): Credit or registration in COMPSCI 3RA3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 3RA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278844"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4CR3",
+    "title": "Applied Cryptography",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281977",
+    "description": "Stream ciphers, Block ciphers, Hash functions, Public-key cryptography (RSA, Discrete logarithm, Elliptic curves), digital signatures, and some discussions on post-quantum cryptography.",
+    "prerequisites": [
+      "Prerequisite(s): MATH 1B03\u00a0\u00a0or MATH 1ZC3\u00a0; COMPSCI 1DM3\u00a0\u00a0or SFWRENG 2DM3\u00a0; COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03"
+    ],
+    "antirequisites": ["Antirequisite(s): COMPSCI 3IS3"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4CR3 - Applied Cryptography 3 unit(s)",
+      "Stream ciphers, Block ciphers, Hash functions, Public-key cryptography (RSA, Discrete logarithm, Elliptic curves), digital signatures, and some discussions on post-quantum cryptography.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): MATH 1B03\u00a0\u00a0or MATH 1ZC3\u00a0; COMPSCI 1DM3\u00a0\u00a0or SFWRENG 2DM3\u00a0; COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03",
+      "Antirequisite(s): COMPSCI 3IS3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "MATH 1B03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+      },
+      {
+        "code": "MATH 1ZC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+      },
+      {
+        "code": "COMPSCI 1DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"
+      },
+      {
+        "code": "SFWRENG 2DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "COMPSCI 3IS3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278842"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4DC3",
+    "title": "Distributed Computing",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280566",
+    "description": "Models of distributed computation, formal reasoning about distributed systems, time and message complexity, distributed agreement under adversarial attacks, distributed coordination and symmetry breaking, peer-to-peer computing, simulation as a tool for building more advanced functionality, actor-model programming.",
+    "prerequisites": [
+      "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3, and one of COMPSCI 2SD3\u00a0\u00a0or 3SD3\u00a0or SFWRENG 3BB4\u00a0\u00a0or SFWRENG 3SH3",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial; one term",
+    "courseText": [
+      "COMPSCI 4DC3 - Distributed Computing 3 unit(s)",
+      "Models of distributed computation, formal reasoning about distributed systems, time and message complexity, distributed agreement under adversarial attacks, distributed coordination and symmetry breaking, peer-to-peer computing, simulation as a tool for building more advanced functionality, actor-model programming.",
+      "Three lectures, one tutorial; one term",
+      "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3, and one of COMPSCI 2SD3\u00a0\u00a0or 3SD3\u00a0or SFWRENG 3BB4\u00a0\u00a0or SFWRENG 3SH3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "COMPSCI 2SD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+      },
+      {
+        "code": "SFWRENG 3BB4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"
+      },
+      {
+        "code": "SFWRENG 3SH3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4E03",
+    "title": "Performance Analysis of Computer Systems",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279819",
+    "description": "Use of queuing models and simulation to predict computer system performance and find bottlenecks in a system. Types of models, distributions. Markov models. Modelling storage and network behaviour, locks, critical sections, concurrency. Introduction to analytical system reliability.",
+    "prerequisites": [
+      "Prerequisite(s): One of STATS 2D03\u00a0, 2MA3, 3N03 or 3Y03\u00a0, or IBEHS 3S03\u00a0\u00a0or 4C03; COMPSCI 2C03"
+    ],
+    "antirequisites": [
+      "Antirequisite(s): SFWRENG 4E03\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program."
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); second term",
+    "courseText": [
+      "COMPSCI 4E03 - Performance Analysis of Computer Systems 3 unit(s)",
+      "Use of queuing models and simulation to predict computer system performance and find bottlenecks in a system. Types of models, distributions. Markov models. Modelling storage and network behaviour, locks, critical sections, concurrency. Introduction to analytical system reliability.",
+      "Three lectures, one tutorial (one hour); second term",
+      "Prerequisite(s): One of STATS 2D03\u00a0, 2MA3, 3N03 or 3Y03\u00a0, or IBEHS 3S03\u00a0\u00a0or 4C03; COMPSCI 2C03",
+      "Antirequisite(s): SFWRENG 4E03\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program."
+    ],
+    "prereq_links": [
+      {
+        "code": "STATS 2D03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+      },
+      {
+        "code": "3Y03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+      },
+      {
+        "code": "IBEHS 3S03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 4E03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279724"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4EN3",
+    "title": "Software Entrepreneurship",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278847",
+    "description": "Issues in starting up a new software enterprise, with the focus on independent startups. This course will cover the technical, financial, legal and operational issues encountered by software startups. Small groups of students will take an idea and turn it into a prototype, a business plan, and a sales pitch. Lectures will cover issues from team formation to appropriate software development processes to patent protection to venture capital.",
+    "prerequisites": [
+      "Prerequisite(s): Registration in Level III or IV of any Computer Science program",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one term",
+    "courseText": [
+      "COMPSCI 4EN3 - Software Entrepreneurship 3 unit(s)",
+      "Issues in starting up a new software enterprise, with the focus on independent startups. This course will cover the technical, financial, legal and operational issues encountered by software startups. Small groups of students will take an idea and turn it into a prototype, a business plan, and a sales pitch. Lectures will cover issues from team formation to appropriate software development processes to patent protection to venture capital.",
+      "Three lectures; one term",
+      "Prerequisite(s): Registration in Level III or IV of any Computer Science program",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4F03",
+    "title": "Parallel Computing",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278848",
+    "description": "Parallel architectures, design and analysis of parallel algorithms; distributed-memory, shared-memory and GPU computing; communication cost, scalability; MPI, OpenMP and OpenACC; tuning parallel programs for performance.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3. Completion of COMPSCI 3N03\u00a0\u00a0or 4C03 is recommended."
+    ],
+    "antirequisites": ["Antirequisite(s): SFWRENG 4F03"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4F03 - Parallel Computing 3 unit(s)",
+      "Parallel architectures, design and analysis of parallel algorithms; distributed-memory, shared-memory and GPU computing; communication cost, scalability; MPI, OpenMP and OpenACC; tuning parallel programs for performance.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3. Completion of COMPSCI 3N03\u00a0\u00a0or 4C03 is recommended.",
+      "Antirequisite(s): SFWRENG 4F03",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2SD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+      },
+      {
+        "code": "COMPSCI 3N03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 4F03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279725"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4FP3",
+    "title": "Functional Programming",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281183",
+    "description": "A selection of topics in advanced functional programming (focusing on Haskell and its derivatives). Example topics: Techniques for embedded domain-specific languages, generic and type-level programming, reasoning about programs, and (co)effects.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0or SFWRENG 3FP3\u00a0, COMPSCI 1XC3\u00a0\u00a0or SFWRENG 2S03 or SFWRENG 2XC3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2LC3\u00a0\u00a0or 2DM3 or SFWRENG 2DM3\u00a0, COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4",
+      "Antirequisites: COMPSCI 3FP3",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4FP3 - Functional Programming 3 unit(s)",
+      "A selection of topics in advanced functional programming (focusing on Haskell and its derivatives). Example topics: Techniques for embedded domain-specific languages, generic and type-level programming, reasoning about programs, and (co)effects.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0or SFWRENG 3FP3\u00a0, COMPSCI 1XC3\u00a0\u00a0or SFWRENG 2S03 or SFWRENG 2XC3\u00a0, COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0, COMPSCI 2LC3\u00a0\u00a0or 2DM3 or SFWRENG 2DM3\u00a0, COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4",
+      "Antirequisites: COMPSCI 3FP3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 1JC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"
+      },
+      {
+        "code": "SFWRENG 3FP3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280031"
+      },
+      {
+        "code": "COMPSCI 1XC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+      },
+      {
+        "code": "SFWRENG 2XC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281008"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "COMPSCI 2LC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+      },
+      {
+        "code": "SFWRENG 2DM3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"
+      },
+      {
+        "code": "COMPSCI 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      },
+      {
+        "code": "SFWRENG 2AA4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4HC3",
+    "title": "Human Computer Interfaces",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278849",
+    "description": "Design of user interfaces. Principles of good interface design. Task-oriented design. User experience design. Inclusive design. Communicating with graphics. Modes and mode awareness problem. Human cognition (memory, perception, motor systems). Help systems. Interface design tools.",
+    "prerequisites": ["Prerequisite(s): COMPSCI 2C03"],
+    "antirequisites": [
+      "Antirequisite(s): SFWRENG 4D03,  4HC3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4HC3 - Human Computer Interfaces 3 unit(s)",
+      "Design of user interfaces. Principles of good interface design. Task-oriented design. User experience design. Inclusive design. Communicating with graphics. Modes and mode awareness problem. Human cognition (memory, perception, motor systems). Help systems. Interface design tools.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): COMPSCI 2C03",
+      "Antirequisite(s): SFWRENG 4D03,  4HC3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": " 4HC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279727"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4ML3",
+    "title": "Fundamentals of Machine Learning",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280567",
+    "description": "Regression, Classification and Decision Theory, Bias-Variance Trade-off, Linear Models, Kernel Methods, Probabilistic Models, Neural Networks, Model Aggregation, Unsupervised Learning.",
+    "prerequisites": [
+      "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3. One of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03. One of MATH 1B03\u00a0\u00a0or 1ZC3\u00a0. One of COMPSCI 4O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0or SFWRENG 3O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0is recommended."
+    ],
+    "antirequisites": ["Antirequisite(s): COMPENG 4SL3, 4SL4"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial; one term",
+    "courseText": [
+      "COMPSCI 4ML3 - Fundamentals of Machine Learning 3 unit(s)",
+      "Regression, Classification and Decision Theory, Bias-Variance Trade-off, Linear Models, Kernel Methods, Probabilistic Models, Neural Networks, Model Aggregation, Unsupervised Learning.",
+      "Three lectures, one tutorial; one term",
+      "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3. One of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03. One of MATH 1B03\u00a0\u00a0or 1ZC3\u00a0. One of COMPSCI 4O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0or SFWRENG 3O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0is recommended.",
+      "Antirequisite(s): COMPENG 4SL3, 4SL4",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "STATS 2D03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+      },
+      {
+        "code": "STATS 3Y03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+      },
+      {
+        "code": "IBEHS 3S03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"
+      },
+      {
+        "code": "MATH 1B03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+      },
+      {
+        "code": "1ZC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+      },
+      {
+        "code": "COMPSCI 4O03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278850"
+      },
+      {
+        "code": "4TE3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278853"
+      },
+      {
+        "code": "4X03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278855"
+      },
+      {
+        "code": "SFWRENG 3O03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280032"
+      },
+      {
+        "code": "4TE3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279730"
+      },
+      {
+        "code": "4X03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280035"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "4SL4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281190"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4O03",
+    "title": "Linear Optimization",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278850",
+    "description": "Modelling and solutions for engineering and science problems using linear optimization, including networks, transportation, assignment, and scheduling problems. Solution methods include combinatorial algorithms such as simplex methods, primal-dual formulations, branch and bound formulations for mixed integer programming, and heuristics.",
+    "prerequisites": ["Prerequisite(s): COMPSCI 2C03"],
+    "antirequisites": [
+      "Antirequisite(s): SFWRENG 3O03\u00a0, 4O03. Not open to students in a Software Engineering or Mechatronics Engineering program"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); first term",
+    "courseText": [
+      "COMPSCI 4O03 - Linear Optimization 3 unit(s)",
+      "Modelling and solutions for engineering and science problems using linear optimization, including networks, transportation, assignment, and scheduling problems. Solution methods include combinatorial algorithms such as simplex methods, primal-dual formulations, branch and bound formulations for mixed integer programming, and heuristics.",
+      "Three lectures, one tutorial (one hour); first term",
+      "Prerequisite(s): COMPSCI 2C03",
+      "Antirequisite(s): SFWRENG 3O03\u00a0, 4O03. Not open to students in a Software Engineering or Mechatronics Engineering program"
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 3O03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280032"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4SD3",
+    "title": "Data-Driven Algorithms for Sequential Decision Making",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281974",
+    "description": "Problems and algorithmic solutions in sequential decision making based on data, as appear in many applications including online ad-placement, A/B testing for software services, financial portfolio management, medical trials, and more. Topics include best-arm identification, multi-armed bandit problems and solutions, online learning, prediction with expert advice, and optimal stopping problems",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or MECHTRON 2MD3\u00a0; STATS 2D03\u00a0\u00a0or 3Y03",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4SD3 - Data-Driven Algorithms for Sequential Decision Making 3 unit(s)",
+      "Problems and algorithmic solutions in sequential decision making based on data, as appear in many applications including online ad-placement, A/B testing for software services, financial portfolio management, medical trials, and more. Topics include best-arm identification, multi-armed bandit problems and solutions, online learning, prediction with expert advice, and optimal stopping problems",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or MECHTRON 2MD3\u00a0; STATS 2D03\u00a0\u00a0or 3Y03",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "SFWRENG 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+      },
+      {
+        "code": "MECHTRON 2MD3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"
+      },
+      {
+        "code": "STATS 2D03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+      },
+      {
+        "code": "3Y03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4TE3",
+    "title": "Continuous Optimization",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278853",
+    "description": "Fundamental algorithms and duality concepts of continuous optimization. Motivation, applicability, information requirements and computational cost of the algorithms is discussed. Practical problems will illustrate the power of continuous optimization techniques.",
+    "prerequisites": ["Prerequisite(s): One of MATH 2A03 or 2ZZ3"],
+    "antirequisites": [
+      "Antirequisite(s): SFWRENG 4TE3\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4TE3 - Continuous Optimization 3 unit(s)",
+      "Fundamental algorithms and duality concepts of continuous optimization. Motivation, applicability, information requirements and computational cost of the algorithms is discussed. Practical problems will illustrate the power of continuous optimization techniques.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): One of MATH 2A03 or 2ZZ3",
+      "Antirequisite(s): SFWRENG 4TE3\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "2ZZ3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278249"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 4TE3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279730"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4TH3",
+    "title": "Theory of Computation",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280387",
+    "description": "Formal languages, models of computation, decidability, reduction techniques, time and space complexity classes.",
+    "prerequisites": ["Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, 2C03"],
+    "antirequisites": ["Antirequisite(s): SFWRENG 4TH3"],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4TH3 - Theory of Computation 3 unit(s)",
+      "Formal languages, models of computation, decidability, reduction techniques, time and space complexity classes.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, 2C03",
+      "Antirequisite(s): SFWRENG 4TH3",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2AC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+      },
+      {
+        "code": "2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "SFWRENG 4TH3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280485"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4TI3",
+    "title": "Fundamentals of Image Processing",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280361",
+    "description": "Discrete-time signals and systems, digital filter design, photons to pixels, linear filtering, edge-detection, non-linear filtering, multi-scale transforms, motion estimation.",
+    "prerequisites": [
+      "Prerequisite(s): Registration in Level III or above of a program offered by the Department of Computing and Software",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one term",
+    "courseText": [
+      "COMPSCI 4TI3 - Fundamentals of Image Processing 3 unit(s)",
+      "Discrete-time signals and systems, digital filter design, photons to pixels, linear filtering, edge-detection, non-linear filtering, multi-scale transforms, motion estimation.",
+      "Three lectures; one term",
+      "Prerequisite(s): Registration in Level III or above of a program offered by the Department of Computing and Software",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4WW3",
+    "title": "Web Systems and Web Computing",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278854",
+    "description": "Network protocols underlying the world wide web; client-side programming: markup, styles, scripts, design, mobile/desktop; server-side programming: databases, dynamic languages; web services; cloud technologies; security.",
+    "prerequisites": [
+      "Prerequisite(s): COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4\u00a0; completion of COMPSCI 2DB3\u00a0\u00a0or 2DB3\u00a0, 3IS3\u00a0, or 3N03\u00a0\u00a0or 4C03\u00a0is recommended.",
+      "Offered on an irregular basis."
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": "Three lectures; one term",
+    "courseText": [
+      "COMPSCI 4WW3 - Web Systems and Web Computing 3 unit(s)",
+      "Network protocols underlying the world wide web; client-side programming: markup, styles, scripts, design, mobile/desktop; server-side programming: databases, dynamic languages; web services; cloud technologies; security.",
+      "Three lectures; one term",
+      "Prerequisite(s): COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4\u00a0; completion of COMPSCI 2DB3\u00a0\u00a0or 2DB3\u00a0, 3IS3\u00a0, or 3N03\u00a0\u00a0or 4C03\u00a0is recommended.",
+      "Offered on an irregular basis."
+    ],
+    "prereq_links": [
+      {
+        "code": "COMPSCI 2ME3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+      },
+      {
+        "code": "SFWRENG 2AA4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"
+      },
+      {
+        "code": "COMPSCI 2DB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+      },
+      {
+        "code": "2DB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+      },
+      {
+        "code": "3IS3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278842"
+      },
+      {
+        "code": "3N03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"
+      }
+    ],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4X03",
+    "title": "Scientific Computation",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278855",
+    "description": "Computer arithmetic, stability, sensitivity. Numerical methods for polynomial manipulation, interpolation, data fitting, integration, differentiation, solving linear and non-linear systems, ordinary differential equations and eigenvalue problems.",
+    "prerequisites": [
+      "Prerequisite(s): MATH 1AA3\u00a0\u00a0or 1ZB3\u00a0, and MATH 1B03\u00a0\u00a0or 1ZC3\u00a0; COMPSCI 2C03\u00a0; One of MATH 2C03\u00a0\u00a0or 2Z03\u00a0\u00a0is recommended."
+    ],
+    "antirequisites": [
+      "Antirequisite(s): COMPENG 3SK3\u00a0, 3SK4, MECHTRON 3X03\u00a0, SFWRENG 3X03, 4X03\u00a0. MECHTRON 3X03\u00a0, MATH 3NA3\u00a0, 4NA3, CHEMENG 2E04\u00a0, CIVENG 2E03\u00a0, ENGPHYS 2CE4, 3NM4\u00a0, MECHENG 3F04\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"
+    ],
+    "units": "3",
+    "schedule": "Three lectures, one tutorial (one hour); one term",
+    "courseText": [
+      "COMPSCI 4X03 - Scientific Computation 3 unit(s)",
+      "Computer arithmetic, stability, sensitivity. Numerical methods for polynomial manipulation, interpolation, data fitting, integration, differentiation, solving linear and non-linear systems, ordinary differential equations and eigenvalue problems.",
+      "Three lectures, one tutorial (one hour); one term",
+      "Prerequisite(s): MATH 1AA3\u00a0\u00a0or 1ZB3\u00a0, and MATH 1B03\u00a0\u00a0or 1ZC3\u00a0; COMPSCI 2C03\u00a0; One of MATH 2C03\u00a0\u00a0or 2Z03\u00a0\u00a0is recommended.",
+      "Antirequisite(s): COMPENG 3SK3\u00a0, 3SK4, MECHTRON 3X03\u00a0, SFWRENG 3X03, 4X03\u00a0. MECHTRON 3X03\u00a0, MATH 3NA3\u00a0, 4NA3, CHEMENG 2E04\u00a0, CIVENG 2E03\u00a0, ENGPHYS 2CE4, 3NM4\u00a0, MECHENG 3F04\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"
+    ],
+    "prereq_links": [
+      {
+        "code": "MATH 1AA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278231"
+      },
+      {
+        "code": "1ZB3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278241"
+      },
+      {
+        "code": "MATH 1B03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+      },
+      {
+        "code": "1ZC3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+      },
+      {
+        "code": "COMPSCI 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+      },
+      {
+        "code": "MATH 2C03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278243"
+      },
+      {
+        "code": "2Z03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278248"
+      }
+    ],
+    "antireq_links": [
+      {
+        "code": "COMPENG 3SK3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278819"
+      },
+      {
+        "code": "MECHTRON 3X03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281184"
+      },
+      {
+        "code": "4X03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280035"
+      },
+      {
+        "code": "MECHTRON 3X03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281184"
+      },
+      {
+        "code": "MATH 3NA3",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280222"
+      },
+      {
+        "code": "CHEMENG 2E04",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280557"
+      },
+      {
+        "code": "CIVENG 2E03",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279824"
+      },
+      {
+        "code": "3NM4",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280585"
+      },
+      {
+        "code": "MECHENG 3F04",
+        "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278294"
+      }
+    ]
+  },
+  {
+    "code": "COMPSCI 4Z03",
+    "title": "Directed Readings",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278856",
+    "description": "Directed readings in an area of computer science of interest to the student and the instructor.",
+    "prerequisites": [
+      "Prerequisite(s): Departmental permission, and registration in Level IV of an Honours program in Computer Science.",
+      "Interested students need to work out a proposal with a faculty member of the Department of Computing and Software"
+    ],
+    "antirequisites": [],
+    "units": "3",
+    "schedule": null,
+    "courseText": [
+      "COMPSCI 4Z03 - Directed Readings 3 unit(s)",
+      "Directed readings in an area of computer science of interest to the student and the instructor.",
+      "Prerequisite(s): Departmental permission, and registration in Level IV of an Honours program in Computer Science.",
+      "Interested students need to work out a proposal with a faculty member of the Department of Computing and Software"
+    ],
+    "prereq_links": [],
+    "antireq_links": []
+  },
+  {
+    "code": "COMPSCI 4ZP6 A/B",
+    "title": "Capstone Project",
+    "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278857",
+    "description": "Students, in teams of two to four students, undertake a substantial project in an area of computer science by performing each step of the software life cycle. The lecture component presents an introduction to software management and project management.",
+    "prerequisites": [
+      "Prerequisite(s): Registration in Level IV of an Honours Computer Science program, of an Honours Computer Science as a Second Degree (B.A.Sc.) program, or of the Combined Honours in Arts & Science and Computer Science program"
+    ],
+    "antirequisites": [],
+    "units": "6",
+    "schedule": null,
+    "courseText": [
+      "COMPSCI 4ZP6 A/B - Capstone Project 6 unit(s)",
+      "Students, in teams of two to four students, undertake a substantial project in an area of computer science by performing each step of the software life cycle. The lecture component presents an introduction to software management and project management.",
+      "Lecture component in term 1, weekly tutorials; two terms",
+      "Prerequisite(s): Registration in Level IV of an Honours Computer Science program, of an Honours Computer Science as a Second Degree (B.A.Sc.) program, or of the Combined Honours in Arts & Science and Computer Science program"
+    ],
+    "prereq_links": [],
+    "antireq_links": []
+  }
+]

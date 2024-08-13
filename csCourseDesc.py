@@ -118,4 +118,4 @@ for course in courses:
   time.sleep(1)
   
   
-json.dump(courses, open("cs courses.json", 'w'))
+json.dump(courses, open("cs courses.json", 'w'), indent=2)
