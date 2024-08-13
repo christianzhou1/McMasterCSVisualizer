@@ -1,0 +1,33 @@
+{
+  "code": "COMPSCI 2DB3",
+  "title": "Databases",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722",
+  "description": "Data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, query processing, transactions, concurrency control, recovery, security and data storage.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or COMPSCI 2DM3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPSCI 3DB3, 4DB3, SFWRENG 3DB3\u00a0, 3H03, 4M03, 4DB3"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); second term; may be offered also in the first term",
+  "courseText": [
+    "COMPSCI 2DB3 - Databases 3 unit(s)",
+    "Data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, query processing, transactions, concurrency control, recovery, security and data storage.",
+    "Three lectures, one tutorial (one hour); second term; may be offered also in the first term",
+    "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or COMPSCI 2DM3",
+    "Antirequisite(s): COMPSCI 3DB3, 4DB3, SFWRENG 3DB3\u00a0, 3H03, 4M03, 4DB3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2LC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 3DB3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280030"
+    }
+  ]
+}

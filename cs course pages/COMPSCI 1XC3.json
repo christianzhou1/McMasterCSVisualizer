@@ -1,0 +1,63 @@
+{
+  "code": "COMPSCI 1XC3",
+  "title": "Computer Science Practice and Experience: Development Basics",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719",
+  "description": "Acquiring familiarity with professional software development settings via practical experience with interaction with UNIX-like systems, programming in C, with documentation, testing, benchmarking, profiling and debugging; shell interaction and programming, pipes and filters; revision control.",
+  "prerequisites": [
+    "Prerequisite(s): One of the following:",
+    "\u2022 COMPSCI 1MD3\u00a0\u00a0and registration in Computer Science 1",
+    "\u2022 One of COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3\u00a0\u00a0with a result of at least B",
+    "\u2022 One of ENGINEER 1D04 or 1P13 A/B\u00a0, or IBEHS 1P10 A/B\u00a0\u00a0with a result of at least B, and registration in Level II or above of an Engineering program other than Software Engineering, Mechatronics Engineering, Electrical Engineering, and Computer Engineering"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPENG 2SH4\u00a0, COMPSCI 1XA3, 2XA3, 2S03, MECHTRON 2MP3\u00a0, SFWRENG 2MP3, 2S03, 2XA3, 2XC3"
+  ],
+  "units": "3",
+  "schedule": "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+  "courseText": [
+    "COMPSCI 1XC3 - Computer Science Practice and Experience: Development Basics 3 unit(s)",
+    "Acquiring familiarity with professional software development settings via practical experience with interaction with UNIX-like systems, programming in C, with documentation, testing, benchmarking, profiling and debugging; shell interaction and programming, pipes and filters; revision control.",
+    "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+    "Prerequisite(s): One of the following:",
+    "\u2022 COMPSCI 1MD3\u00a0\u00a0and registration in Computer Science 1",
+    "\u2022 One of COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3\u00a0\u00a0with a result of at least B",
+    "\u2022 One of ENGINEER 1D04 or 1P13 A/B\u00a0, or IBEHS 1P10 A/B\u00a0\u00a0with a result of at least B, and registration in Level II or above of an Engineering program other than Software Engineering, Mechatronics Engineering, Electrical Engineering, and Computer Engineering",
+    "Antirequisite(s): COMPENG 2SH4\u00a0, COMPSCI 1XA3, 2XA3, 2S03, MECHTRON 2MP3\u00a0, SFWRENG 2MP3, 2S03, 2XA3, 2XC3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 1MD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+    },
+    {
+      "code": "COMPSCI 1MD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+    },
+    {
+      "code": "MATH 1MP3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+    },
+    {
+      "code": "1P13 A/B",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280969"
+    },
+    {
+      "code": "IBEHS 1P10 A/B",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280199"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "COMPENG 2SH4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278817"
+    },
+    {
+      "code": "MECHTRON 2MP3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281005"
+    },
+    {
+      "code": "2XC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281008"
+    }
+  ]
+}

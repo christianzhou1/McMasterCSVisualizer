@@ -1,0 +1,43 @@
+{
+  "code": "COMPSCI 3TB3",
+  "title": "Syntax-Based Tools and Compilers",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280727",
+  "description": "Lexical analysis, syntax analysis, type checking; syntax-directed translation, attribute grammars; compiler structure; implications of computer architecture; mapping of programming language concepts; code generation and optimization.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2GA3\u00a0, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 3MI3",
+    "Antirequisites: COMPSCI 4TB3, SFWRENG 4TB3"
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures, one lab (two hours); second term",
+  "courseText": [
+    "COMPSCI 3TB3 - Syntax-Based Tools and Compilers 3 unit(s)",
+    "Lexical analysis, syntax analysis, type checking; syntax-directed translation, attribute grammars; compiler structure; implications of computer architecture; mapping of programming language concepts; code generation and optimization.",
+    "Three lectures, one lab (two hours); second term",
+    "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2GA3\u00a0, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 3MI3",
+    "Antirequisites: COMPSCI 4TB3, SFWRENG 4TB3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "COMPSCI 2GA3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833"
+    },
+    {
+      "code": "COMPSCI 2AC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+    },
+    {
+      "code": "COMPSCI 3MI3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278843"
+    },
+    {
+      "code": "SFWRENG 4TB3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281980"
+    }
+  ],
+  "antireq_links": []
+}

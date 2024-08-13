@@ -1,0 +1,37 @@
+{
+  "code": "COMPSCI 3RA3",
+  "title": "Software Requirements and Security Considerations",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278844",
+  "description": "Software requirements gathering. Critical systems requirements gathering. Security requirements. Traceability of requirements. Verification, validation, and documentation techniques. Software requirements quality attributes. Security policies. Measures for data confidentiality. Design principles that enhance security. Access control mechanisms.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, COMPSCI 2ME3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 3RA3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program."
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 3RA3 - Software Requirements and Security Considerations 3 unit(s)",
+    "Software requirements gathering. Critical systems requirements gathering. Security requirements. Traceability of requirements. Verification, validation, and documentation techniques. Software requirements quality attributes. Security policies. Measures for data confidentiality. Design principles that enhance security. Access control mechanisms.",
+    "Three lectures, one tutorial (one hour); one term",
+    "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, COMPSCI 2ME3",
+    "Antirequisite(s): SFWRENG 3RA3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2AC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+    },
+    {
+      "code": "COMPSCI 2ME3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 3RA3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279717"
+    }
+  ]
+}

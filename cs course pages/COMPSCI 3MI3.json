@@ -1,0 +1,37 @@
+{
+  "code": "COMPSCI 3MI3",
+  "title": "Principles of Programming Languages",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278843",
+  "description": "Principles of definition of and reasoning about programming languages and domain-specific languages; use of semantics for interpretation and in program analyses for correctness, security and efficiency.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2LC3\u00a0\u00a0or 2DM3, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 2ME3"
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures; one tutorial (one hour); first term",
+  "courseText": [
+    "COMPSCI 3MI3 - Principles of Programming Languages 3 unit(s)",
+    "Principles of definition of and reasoning about programming languages and domain-specific languages; use of semantics for interpretation and in program analyses for correctness, security and efficiency.",
+    "Three lectures; one tutorial (one hour); first term",
+    "Prerequisite(s): COMPSCI 2C03\u00a0, and COMPSCI 2LC3\u00a0\u00a0or 2DM3, and COMPSCI 2AC3\u00a0\u00a0or 2FA3, and COMPSCI 2ME3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "COMPSCI 2LC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+    },
+    {
+      "code": "COMPSCI 2AC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+    },
+    {
+      "code": "COMPSCI 2ME3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+    }
+  ],
+  "antireq_links": []
+}

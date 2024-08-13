@@ -1,0 +1,34 @@
+{
+  "code": "COMPSCI 4TE3",
+  "title": "Continuous Optimization",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278853",
+  "description": "Fundamental algorithms and duality concepts of continuous optimization. Motivation, applicability, information requirements and computational cost of the algorithms is discussed. Practical problems will illustrate the power of continuous optimization techniques.",
+  "prerequisites": [
+    "Prerequisite(s): One of MATH 2A03 or 2ZZ3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 4TE3\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 4TE3 - Continuous Optimization 3 unit(s)",
+    "Fundamental algorithms and duality concepts of continuous optimization. Motivation, applicability, information requirements and computational cost of the algorithms is discussed. Practical problems will illustrate the power of continuous optimization techniques.",
+    "Three lectures, one tutorial (one hour); one term",
+    "Prerequisite(s): One of MATH 2A03 or 2ZZ3",
+    "Antirequisite(s): SFWRENG 4TE3\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "2ZZ3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278249"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 4TE3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279730"
+    }
+  ]
+}

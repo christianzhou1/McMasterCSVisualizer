@@ -1,0 +1,33 @@
+{
+  "code": "COMPSCI 4HC3",
+  "title": "Human Computer Interfaces",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278849",
+  "description": "Design of user interfaces. Principles of good interface design. Task-oriented design. User experience design. Inclusive design. Communicating with graphics. Modes and mode awareness problem. Human cognition (memory, perception, motor systems). Help systems. Interface design tools.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2C03"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 4D03,  4HC3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 4HC3 - Human Computer Interfaces 3 unit(s)",
+    "Design of user interfaces. Principles of good interface design. Task-oriented design. User experience design. Inclusive design. Communicating with graphics. Modes and mode awareness problem. Human cognition (memory, perception, motor systems). Help systems. Interface design tools.",
+    "Three lectures, one tutorial (one hour); one term",
+    "Prerequisite(s): COMPSCI 2C03",
+    "Antirequisite(s): SFWRENG 4D03,  4HC3\u00a0\u00a0Not open to students in a Software Engineering or Mechatronics Engineering program"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": " 4HC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279727"
+    }
+  ]
+}

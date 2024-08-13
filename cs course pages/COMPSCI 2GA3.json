@@ -1,0 +1,39 @@
+{
+  "code": "COMPSCI 2GA3",
+  "title": "Computer Architecture",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833",
+  "description": "Introduction to logic gates, computer arithmetic, instruction-set architecture, assembly programming, translation of high-level languages into assembly. Computer system organization: datapath and control, pipelining, memory hierarchies, I/O systems; measures of performance.",
+  "prerequisites": [
+    "Prerequisite(s): One of the following:",
+    "COMPSCI 1XC3\u00a0\u00a0and 1DM3\u00a0\u00a0and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPENG 3DR4, 4DM4\u00a0, SFWRENG 2GA3\u00a0, 3GA3"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial, (one hour); first term; may be offered also in the second term",
+  "courseText": [
+    "COMPSCI 2GA3 - Computer Architecture 3 unit(s)",
+    "Introduction to logic gates, computer arithmetic, instruction-set architecture, assembly programming, translation of high-level languages into assembly. Computer system organization: datapath and control, pipelining, memory hierarchies, I/O systems; measures of performance.",
+    "Three lectures, one tutorial, (one hour); first term; may be offered also in the second term",
+    "Prerequisite(s): One of the following:",
+    "COMPSCI 1XC3\u00a0\u00a0and 1DM3\u00a0\u00a0and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.",
+    "Antirequisite(s): COMPENG 3DR4, 4DM4\u00a0, SFWRENG 2GA3\u00a0, 3GA3"
+  ],
+  "prereq_links": [
+    {
+      "code": "1DM3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "4DM4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278821"
+    },
+    {
+      "code": "SFWRENG 2GA3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279940"
+    }
+  ]
+}

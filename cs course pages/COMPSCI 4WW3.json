@@ -1,0 +1,47 @@
+{
+  "code": "COMPSCI 4WW3",
+  "title": "Web Systems and Web Computing",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278854",
+  "description": "Network protocols underlying the world wide web; client-side programming: markup, styles, scripts, design, mobile/desktop; server-side programming: databases, dynamic languages; web services; cloud technologies; security.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4\u00a0; completion of COMPSCI 2DB3\u00a0\u00a0or 2DB3\u00a0, 3IS3\u00a0, or 3N03\u00a0\u00a0or 4C03\u00a0is recommended.",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures; one term",
+  "courseText": [
+    "COMPSCI 4WW3 - Web Systems and Web Computing 3 unit(s)",
+    "Network protocols underlying the world wide web; client-side programming: markup, styles, scripts, design, mobile/desktop; server-side programming: databases, dynamic languages; web services; cloud technologies; security.",
+    "Three lectures; one term",
+    "Prerequisite(s): COMPSCI 2ME3\u00a0\u00a0or SFWRENG 2AA4\u00a0; completion of COMPSCI 2DB3\u00a0\u00a0or 2DB3\u00a0, 3IS3\u00a0, or 3N03\u00a0\u00a0or 4C03\u00a0is recommended.",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2ME3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+    },
+    {
+      "code": "SFWRENG 2AA4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"
+    },
+    {
+      "code": "COMPSCI 2DB3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+    },
+    {
+      "code": "2DB3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+    },
+    {
+      "code": "3IS3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278842"
+    },
+    {
+      "code": "3N03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"
+    }
+  ],
+  "antireq_links": []
+}

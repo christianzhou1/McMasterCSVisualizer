@@ -1,0 +1,38 @@
+{
+  "code": "COMPSCI 4F03",
+  "title": "Parallel Computing",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278848",
+  "description": "Parallel architectures, design and analysis of parallel algorithms; distributed-memory, shared-memory and GPU computing; communication cost, scalability; MPI, OpenMP and OpenACC; tuning parallel programs for performance.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3. Completion of COMPSCI 3N03\u00a0\u00a0or 4C03 is recommended."
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 4F03"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 4F03 - Parallel Computing 3 unit(s)",
+    "Parallel architectures, design and analysis of parallel algorithms; distributed-memory, shared-memory and GPU computing; communication cost, scalability; MPI, OpenMP and OpenACC; tuning parallel programs for performance.",
+    "Three lectures, one tutorial (one hour); one term",
+    "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3. Completion of COMPSCI 3N03\u00a0\u00a0or 4C03 is recommended.",
+    "Antirequisite(s): SFWRENG 4F03",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2SD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+    },
+    {
+      "code": "COMPSCI 3N03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 4F03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279725"
+    }
+  ]
+}

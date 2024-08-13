@@ -1,0 +1,40 @@
+{
+  "code": "COMPSCI 1XD3",
+  "title": "Computer Science Practice and Experience: Introduction to Software Design Using Web Programming",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720",
+  "description": "Introduction to different aspects of design: Identifying user needs, goals and desires and translating them into software, and structuring and communicating the structure of software to improve reliability, readability and adaptability. Topics include web languages and protocols, types and design patterns.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0and registration in Computer Science 1, or COMPSCI 1JC3\u00a0\u00a0with a result of at least B; COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPSCI 1XA3"
+  ],
+  "units": "3",
+  "schedule": "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+  "courseText": [
+    "COMPSCI 1XD3 - Computer Science Practice and Experience: Introduction to Software Design Using Web Programming 3 unit(s)",
+    "Introduction to different aspects of design: Identifying user needs, goals and desires and translating them into software, and structuring and communicating the structure of software to improve reliability, readability and adaptability. Topics include web languages and protocols, types and design patterns.",
+    "Two lectures, two labs (two hours each); second term; may be offered also in the first term",
+    "Prerequisite(s): COMPSCI 1JC3\u00a0\u00a0and registration in Computer Science 1, or COMPSCI 1JC3\u00a0\u00a0with a result of at least B; COMPSCI 1MD3\u00a0\u00a0or MATH 1MP3",
+    "Antirequisite(s): COMPSCI 1XA3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 1JC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"
+    },
+    {
+      "code": "COMPSCI 1JC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"
+    },
+    {
+      "code": "COMPSCI 1MD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+    },
+    {
+      "code": "MATH 1MP3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+    }
+  ],
+  "antireq_links": []
+}

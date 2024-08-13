@@ -1,0 +1,55 @@
+{
+  "code": "COMPSCI 3DP3",
+  "title": "Data Privacy",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281182",
+  "description": "Basics of data privacy, de-anonymization, membership and reconstruction attacks, differential privacy, privacy-preserving mechanisms, privacy-utility trade-offs and cost of privacy, adaptive data analysis",
+  "prerequisites": [
+    "Prerequisite(s): One of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0; one of STATS 2D03\u00a0, 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03; one of MATH 1B03\u00a0, 1ZC3\u00a0; basic Python programming.",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures; one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 3DP3 - Data Privacy 3 unit(s)",
+    "Basics of data privacy, de-anonymization, membership and reconstruction attacks, differential privacy, privacy-preserving mechanisms, privacy-utility trade-offs and cost of privacy, adaptive data analysis",
+    "Three lectures; one tutorial (one hour); one term",
+    "Prerequisite(s): One of COMPSCI 2C03\u00a0, SFWRENG 2C03\u00a0, SFWRENG 2MD3, MECHTRON 2MD3\u00a0; one of STATS 2D03\u00a0, 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03; one of MATH 1B03\u00a0, 1ZC3\u00a0; basic Python programming.",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "SFWRENG 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+    },
+    {
+      "code": "MECHTRON 2MD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"
+    },
+    {
+      "code": "STATS 2D03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+    },
+    {
+      "code": "3Y03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+    },
+    {
+      "code": "IBEHS 3S03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"
+    },
+    {
+      "code": "MATH 1B03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+    },
+    {
+      "code": "1ZC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+    }
+  ],
+  "antireq_links": []
+}

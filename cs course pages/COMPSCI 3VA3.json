@@ -1,0 +1,39 @@
+{
+  "code": "COMPSCI 3VA3",
+  "title": "Information Visualization and Visual Analytics",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281963",
+  "description": "The course focuses on building web applications to visualize abstract data (information visualization) and apply computation techniques for analysis (visual analytics). Students will learn practical web application-building skills mixed with data analytics and visualization design theory. We will cover the design principles that consider human perception, cognition, and decision-making and create intuitive interfaces for analyzing data on the web.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 1XD3\u00a0, 2C03\u00a0, 2DB3\u00a0, 2ME3",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); first term",
+  "courseText": [
+    "COMPSCI 3VA3 - Information Visualization and Visual Analytics 3 unit(s)",
+    "The course focuses on building web applications to visualize abstract data (information visualization) and apply computation techniques for analysis (visual analytics). Students will learn practical web application-building skills mixed with data analytics and visualization design theory. We will cover the design principles that consider human perception, cognition, and decision-making and create intuitive interfaces for analyzing data on the web.",
+    "Three lectures, one tutorial (one hour); first term",
+    "Prerequisite(s): COMPSCI 1XD3\u00a0, 2C03\u00a0, 2DB3\u00a0, 2ME3",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 1XD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+    },
+    {
+      "code": "2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "2DB3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+    },
+    {
+      "code": "2ME3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+    }
+  ],
+  "antireq_links": []
+}

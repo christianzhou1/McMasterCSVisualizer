@@ -1,0 +1,41 @@
+{
+  "code": "COMPSCI 3N03",
+  "title": "Computer Networks and Security",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280726",
+  "description": "Physical networks, TCP/IP protocols, switching methods, network layering and components, network services. Information security, computer and network security threats, defence mechanisms, encryption.",
+  "prerequisites": [
+    "Prerequisite(s): Credit or registration in COMPSCI 3SH3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPSCI 3CN3, 3C03, COMPSCI 4C03, SFWRENG 4C03\u00a0, COMPENG 4DK4\u00a0, COMPENG 4DN4"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); second term",
+  "courseText": [
+    "COMPSCI 3N03 - Computer Networks and Security 3 unit(s)",
+    "Physical networks, TCP/IP protocols, switching methods, network layering and components, network services. Information security, computer and network security threats, defence mechanisms, encryption.",
+    "Three lectures, one tutorial (one hour); second term",
+    "Prerequisite(s): Credit or registration in COMPSCI 3SH3",
+    "Antirequisite(s): COMPSCI 3CN3, 3C03, COMPSCI 4C03, SFWRENG 4C03\u00a0, COMPENG 4DK4\u00a0, COMPENG 4DN4"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 3SH3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 4C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279722"
+    },
+    {
+      "code": "COMPENG 4DK4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278820"
+    },
+    {
+      "code": "COMPENG 4DN4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278822"
+    }
+  ]
+}

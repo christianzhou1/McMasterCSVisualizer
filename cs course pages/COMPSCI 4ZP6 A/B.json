@@ -1,0 +1,20 @@
+{
+  "code": "COMPSCI 4ZP6 A/B",
+  "title": "Capstone Project",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278857",
+  "description": "Students, in teams of two to four students, undertake a substantial project in an area of computer science by performing each step of the software life cycle. The lecture component presents an introduction to software management and project management.",
+  "prerequisites": [
+    "Prerequisite(s): Registration in Level IV of an Honours Computer Science program, of an Honours Computer Science as a Second Degree (B.A.Sc.) program, or of the Combined Honours in Arts & Science and Computer Science program"
+  ],
+  "antirequisites": [],
+  "units": "6",
+  "schedule": null,
+  "courseText": [
+    "COMPSCI 4ZP6 A/B - Capstone Project 6 unit(s)",
+    "Students, in teams of two to four students, undertake a substantial project in an area of computer science by performing each step of the software life cycle. The lecture component presents an introduction to software management and project management.",
+    "Lecture component in term 1, weekly tutorials; two terms",
+    "Prerequisite(s): Registration in Level IV of an Honours Computer Science program, of an Honours Computer Science as a Second Degree (B.A.Sc.) program, or of the Combined Honours in Arts & Science and Computer Science program"
+  ],
+  "prereq_links": [],
+  "antireq_links": []
+}

@@ -1,0 +1,45 @@
+{
+  "code": "COMPSCI 4E03",
+  "title": "Performance Analysis of Computer Systems",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279819",
+  "description": "Use of queuing models and simulation to predict computer system performance and find bottlenecks in a system. Types of models, distributions. Markov models. Modelling storage and network behaviour, locks, critical sections, concurrency. Introduction to analytical system reliability.",
+  "prerequisites": [
+    "Prerequisite(s): One of STATS 2D03\u00a0, 2MA3, 3N03 or 3Y03\u00a0, or IBEHS 3S03\u00a0\u00a0or 4C03; COMPSCI 2C03"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 4E03\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program."
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); second term",
+  "courseText": [
+    "COMPSCI 4E03 - Performance Analysis of Computer Systems 3 unit(s)",
+    "Use of queuing models and simulation to predict computer system performance and find bottlenecks in a system. Types of models, distributions. Markov models. Modelling storage and network behaviour, locks, critical sections, concurrency. Introduction to analytical system reliability.",
+    "Three lectures, one tutorial (one hour); second term",
+    "Prerequisite(s): One of STATS 2D03\u00a0, 2MA3, 3N03 or 3Y03\u00a0, or IBEHS 3S03\u00a0\u00a0or 4C03; COMPSCI 2C03",
+    "Antirequisite(s): SFWRENG 4E03\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program."
+  ],
+  "prereq_links": [
+    {
+      "code": "STATS 2D03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+    },
+    {
+      "code": "3Y03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+    },
+    {
+      "code": "IBEHS 3S03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"
+    },
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 4E03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279724"
+    }
+  ]
+}

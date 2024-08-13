@@ -1,0 +1,51 @@
+{
+  "code": "COMPSCI 2ME3",
+  "title": "Introduction to Software Development",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835",
+  "description": "Classes and inheritance, class invariants, interface specifications; object-oriented design patterns; exception handling; tools for interface documentation, testing, program analysis; requirements documentation; quality attributes; development models.",
+  "prerequisites": [
+    "Prerequisite(s):\u00a0COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science",
+    "Co-requisite(s): COMPSCI 2LC3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04"
+  ],
+  "units": "3",
+  "schedule": "Three lectures one tutorial (two hours); first term; may be offered also in the second term",
+  "courseText": [
+    "COMPSCI 2ME3 - Introduction to Software Development 3 unit(s)",
+    "Classes and inheritance, class invariants, interface specifications; object-oriented design patterns; exception handling; tools for interface documentation, testing, program analysis; requirements documentation; quality attributes; development models.",
+    "Three lectures one tutorial (two hours); first term; may be offered also in the second term",
+    "Prerequisite(s):\u00a0COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science",
+    "Co-requisite(s): COMPSCI 2LC3",
+    "Antirequisite(s): SFWRENG 2AA4\u00a0, SFWRENG 3K04\u00a0, MECHTRON 3K04"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 1XC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+    },
+    {
+      "code": "1XD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+    },
+    {
+      "code": "COMPSCI 2LC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 2AA4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279703"
+    },
+    {
+      "code": "SFWRENG 3K04",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279716"
+    },
+    {
+      "code": "MECHTRON 3K04",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280832"
+    }
+  ]
+}

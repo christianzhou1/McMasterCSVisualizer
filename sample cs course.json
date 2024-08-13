@@ -1,0 +1,30 @@
+{
+  "code": "COMPSCI 1MD3",
+  "title": "Introduction to Programming",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830",
+  "description": "Introduction to fundamental programming concepts: values and types, expressions and evaluation, control flow constructs and exceptions, recursion, input/output and file processing.",
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+  "prerequisites": [
+    "Prerequisite(s): One of MATH 1K03\u00a0, 1LS3\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration or credit in ARTSSCI 1D06 A/B\u00a0"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): ENGINEER 1D04, 1P13 A/B\u00a0, IBEHS 1P10 A/B\u00a0, MATH 1MP3\u00a0\u00a0"
+  ],
+  "courseText": [
+    "COMPSCI 1MD3 - Introduction to Programming 3 unit(s) Introduction to fundamental programming concepts: values and types, expressions and evaluation, control flow constructs and exceptions, recursion, input/output and file processing.",
+    "Three lectures, one tutorial (one hour); first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+    "Prerequisite(s): One of MATH 1K03\u00a0, 1LS3\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration or credit in ARTSSCI 1D06 A/B\u00a0",
+    "Antirequisite(s): ENGINEER 1D04, 1P13 A/B\u00a0, IBEHS 1P10 A/B\u00a0, MATH 1MP3\u00a0\u00a0"
+  ],
+  "prereq_links": [
+    "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278235",
+    "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278236",
+    "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278405"
+  ],
+  "antireq_links": [
+    "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280969",
+    "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280199",
+    "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+  ]
+}

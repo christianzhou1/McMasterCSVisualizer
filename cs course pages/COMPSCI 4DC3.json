@@ -1,0 +1,43 @@
+{
+  "code": "COMPSCI 4DC3",
+  "title": "Distributed Computing",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280566",
+  "description": "Models of distributed computation, formal reasoning about distributed systems, time and message complexity, distributed agreement under adversarial attacks, distributed coordination and symmetry breaking, peer-to-peer computing, simulation as a tool for building more advanced functionality, actor-model programming.",
+  "prerequisites": [
+    "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3, and one of COMPSCI 2SD3\u00a0\u00a0or 3SD3\u00a0or SFWRENG 3BB4\u00a0\u00a0or SFWRENG 3SH3",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial; one term",
+  "courseText": [
+    "COMPSCI 4DC3 - Distributed Computing 3 unit(s)",
+    "Models of distributed computation, formal reasoning about distributed systems, time and message complexity, distributed agreement under adversarial attacks, distributed coordination and symmetry breaking, peer-to-peer computing, simulation as a tool for building more advanced functionality, actor-model programming.",
+    "Three lectures, one tutorial; one term",
+    "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3, and one of COMPSCI 2SD3\u00a0\u00a0or 3SD3\u00a0or SFWRENG 3BB4\u00a0\u00a0or SFWRENG 3SH3",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "SFWRENG 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+    },
+    {
+      "code": "COMPSCI 2SD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+    },
+    {
+      "code": "SFWRENG 3BB4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"
+    },
+    {
+      "code": "SFWRENG 3SH3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"
+    }
+  ],
+  "antireq_links": []
+}

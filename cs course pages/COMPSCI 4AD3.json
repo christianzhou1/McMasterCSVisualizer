@@ -1,0 +1,34 @@
+{
+  "code": "COMPSCI 4AD3",
+  "title": "Advanced Databases",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280029",
+  "description": "Advanced topics in database systems technology and design. Topics include: query processing; query optimization; data storage; indexing; crash recovery; physical database design; introductory data mining techniques.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2DB3\u00a0\u00a0or 3DB3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 4AD3"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial; one term",
+  "courseText": [
+    "COMPSCI 4AD3 - Advanced Databases 3 unit(s)",
+    "Advanced topics in database systems technology and design. Topics include: query processing; query optimization; data storage; indexing; crash recovery; physical database design; introductory data mining techniques.",
+    "Three lectures, one tutorial; one term",
+    "Prerequisite(s): COMPSCI 2DB3\u00a0\u00a0or 3DB3",
+    "Antirequisite(s): SFWRENG 4AD3",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2DB3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280722"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 4AD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280034"
+    }
+  ]
+}

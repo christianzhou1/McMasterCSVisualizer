@@ -1,0 +1,41 @@
+{
+  "code": "COMPSCI 3SH3",
+  "title": "Computer Science Practice and Experience: Operating Systems",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278845",
+  "description": "Processes and threads, synchronization and communication; scheduling, memory management; file systems; resource protection; structure of operating systems.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3, COMPSCI 2C03\u00a0, and COMPSCI 2GA3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 3SH3"
+  ],
+  "units": "3",
+  "schedule": "Two lectures, one tutorial, two labs (one hour each); first term",
+  "courseText": [
+    "COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems 3 unit(s)",
+    "Processes and threads, synchronization and communication; scheduling, memory management; file systems; resource protection; structure of operating systems.",
+    "Two lectures, one tutorial, two labs (one hour each); first term",
+    "Prerequisite(s): COMPSCI 2SD3\u00a0\u00a0or 3SD3, COMPSCI 2C03\u00a0, and COMPSCI 2GA3",
+    "Antirequisite(s): SFWRENG 3SH3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2SD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+    },
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "COMPSCI 2GA3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278833"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 3SH3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279719"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "code": "COMPSCI 3EA3",
+  "title": "Software and System Correctness",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278840",
+  "description": "Formal specifications in software and system development; validation; verification; presentation of information; practical",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or 2DM3, 2AC3\u00a0\u00a0or 2FA3,  2ME3\u00a0, 2SD3\u00a0\u00a0or 3SD3",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures; one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 3EA3 - Software and System Correctness 3 unit(s)",
+    "Formal specifications in software and system development; validation; verification; presentation of information; practical",
+    "experience in formal specification and tool-supported verification.",
+    "Three lectures; one tutorial (one hour); one term",
+    "Prerequisite(s): COMPSCI 2LC3\u00a0\u00a0or 2DM3, 2AC3\u00a0\u00a0or 2FA3,  2ME3\u00a0, 2SD3\u00a0\u00a0or 3SD3",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2LC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+    },
+    {
+      "code": "2AC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+    },
+    {
+      "code": " 2ME3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+    },
+    {
+      "code": "2SD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724"
+    }
+  ],
+  "antireq_links": []
+}

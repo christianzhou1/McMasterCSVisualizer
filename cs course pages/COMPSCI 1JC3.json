@@ -1,0 +1,25 @@
+{
+  "code": "COMPSCI 1JC3",
+  "title": "Introduction to Computational Thinking",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829",
+  "description": "Exploration of thinking that is inspired, supported, and enabled by computing. Survey of the salient ideas, methods, and technologies in the major areas of computing including basic data types, logic, operating systems, computer networking, web computing, information security, digital media, software development, and problem solving techniques. Introduction to the fundamentals of functional programming.",
+  "prerequisites": [
+    "Prerequisite(s): One of MATH 1K03\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration in Computer Science 1"
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (two hours), first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+  "courseText": [
+    "COMPSCI 1JC3 - Introduction to Computational Thinking 3 unit(s)",
+    "Exploration of thinking that is inspired, supported, and enabled by computing. Survey of the salient ideas, methods, and technologies in the major areas of computing including basic data types, logic, operating systems, computer networking, web computing, information security, digital media, software development, and problem solving techniques. Introduction to the fundamentals of functional programming.",
+    "Three lectures, one tutorial (two hours), first term; may be offered also in the second term (Computer Science students need to take this course in the first term)",
+    "Prerequisite(s): One of MATH 1K03\u00a0, Grade 12 Advanced Functions and Introductory Calculus U, Grade 12 Calculus and Vectors, or registration in Computer Science 1"
+  ],
+  "prereq_links": [
+    {
+      "code": "MATH 1K03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278235"
+    }
+  ],
+  "antireq_links": []
+}

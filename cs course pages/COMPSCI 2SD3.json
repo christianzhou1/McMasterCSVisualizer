@@ -1,0 +1,47 @@
+{
+  "code": "COMPSCI 2SD3",
+  "title": "Concurrent Systems",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280724",
+  "description": "Models of concurrency: process algebras, Petri nets, temporal logics and model checking; concurrency as software structuring principle: processes, threads, synchronization mechanisms, resource management and sharing; deadlock, safety and liveness; design, verification and testing of concurrent systems.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2C03\u00a0, 2LC3\u00a0\u00a0or 2DM3, 2ME3",
+    "Co-requisite(s): COMPSCI 2AC3"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPSCI 3SD3, SFWRENG 3BB4"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (two hours); second term; may be offered also in the first term",
+  "courseText": [
+    "COMPSCI 2SD3 - Concurrent Systems 3 unit(s)",
+    "Models of concurrency: process algebras, Petri nets, temporal logics and model checking; concurrency as software structuring principle: processes, threads, synchronization mechanisms, resource management and sharing; deadlock, safety and liveness; design, verification and testing of concurrent systems.",
+    "Three lectures, one tutorial (two hours); second term; may be offered also in the first term",
+    "Prerequisite(s): COMPSCI 2C03\u00a0, 2LC3\u00a0\u00a0or 2DM3, 2ME3",
+    "Co-requisite(s): COMPSCI 2AC3",
+    "Antirequisite(s): COMPSCI 3SD3, SFWRENG 3BB4"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "2LC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723"
+    },
+    {
+      "code": "2ME3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+    },
+    {
+      "code": "COMPSCI 2AC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 3BB4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279710"
+    }
+  ]
+}

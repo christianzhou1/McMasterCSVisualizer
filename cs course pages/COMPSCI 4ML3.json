@@ -1,0 +1,82 @@
+{
+  "code": "COMPSCI 4ML3",
+  "title": "Fundamentals of Machine Learning",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280567",
+  "description": "Regression, Classification and Decision Theory, Bias-Variance Trade-off, Linear Models, Kernel Methods, Probabilistic Models, Neural Networks, Model Aggregation, Unsupervised Learning.",
+  "prerequisites": [
+    "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3. One of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03. One of MATH 1B03\u00a0\u00a0or 1ZC3\u00a0. One of COMPSCI 4O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0or SFWRENG 3O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0is recommended."
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPENG 4SL3, 4SL4"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial; one term",
+  "courseText": [
+    "COMPSCI 4ML3 - Fundamentals of Machine Learning 3 unit(s)",
+    "Regression, Classification and Decision Theory, Bias-Variance Trade-off, Linear Models, Kernel Methods, Probabilistic Models, Neural Networks, Model Aggregation, Unsupervised Learning.",
+    "Three lectures, one tutorial; one term",
+    "Prerequisite(s): One of COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or SFWRENG 2MD3. One of STATS 2D03\u00a0, STATS 3Y03\u00a0, IBEHS 3S03\u00a0, 4C03. One of MATH 1B03\u00a0\u00a0or 1ZC3\u00a0. One of COMPSCI 4O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0or SFWRENG 3O03\u00a0\u00a0or 4TE3\u00a0\u00a0or 4X03\u00a0\u00a0is recommended.",
+    "Antirequisite(s): COMPENG 4SL3, 4SL4",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "SFWRENG 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+    },
+    {
+      "code": "STATS 2D03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+    },
+    {
+      "code": "STATS 3Y03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+    },
+    {
+      "code": "IBEHS 3S03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281991"
+    },
+    {
+      "code": "MATH 1B03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+    },
+    {
+      "code": "1ZC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+    },
+    {
+      "code": "COMPSCI 4O03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278850"
+    },
+    {
+      "code": "4TE3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278853"
+    },
+    {
+      "code": "4X03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278855"
+    },
+    {
+      "code": "SFWRENG 3O03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280032"
+    },
+    {
+      "code": "4TE3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279730"
+    },
+    {
+      "code": "4X03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280035"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "4SL4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281190"
+    }
+  ]
+}

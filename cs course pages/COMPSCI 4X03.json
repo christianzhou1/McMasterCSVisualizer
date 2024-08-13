@@ -1,0 +1,89 @@
+{
+  "code": "COMPSCI 4X03",
+  "title": "Scientific Computation",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278855",
+  "description": "Computer arithmetic, stability, sensitivity. Numerical methods for polynomial manipulation, interpolation, data fitting, integration, differentiation, solving linear and non-linear systems, ordinary differential equations and eigenvalue problems.",
+  "prerequisites": [
+    "Prerequisite(s): MATH 1AA3\u00a0\u00a0or 1ZB3\u00a0, and MATH 1B03\u00a0\u00a0or 1ZC3\u00a0; COMPSCI 2C03\u00a0; One of MATH 2C03\u00a0\u00a0or 2Z03\u00a0\u00a0is recommended."
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPENG 3SK3\u00a0, 3SK4, MECHTRON 3X03\u00a0, SFWRENG 3X03, 4X03\u00a0. MECHTRON 3X03\u00a0, MATH 3NA3\u00a0, 4NA3, CHEMENG 2E04\u00a0, CIVENG 2E03\u00a0, ENGPHYS 2CE4, 3NM4\u00a0, MECHENG 3F04\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 4X03 - Scientific Computation 3 unit(s)",
+    "Computer arithmetic, stability, sensitivity. Numerical methods for polynomial manipulation, interpolation, data fitting, integration, differentiation, solving linear and non-linear systems, ordinary differential equations and eigenvalue problems.",
+    "Three lectures, one tutorial (one hour); one term",
+    "Prerequisite(s): MATH 1AA3\u00a0\u00a0or 1ZB3\u00a0, and MATH 1B03\u00a0\u00a0or 1ZC3\u00a0; COMPSCI 2C03\u00a0; One of MATH 2C03\u00a0\u00a0or 2Z03\u00a0\u00a0is recommended.",
+    "Antirequisite(s): COMPENG 3SK3\u00a0, 3SK4, MECHTRON 3X03\u00a0, SFWRENG 3X03, 4X03\u00a0. MECHTRON 3X03\u00a0, MATH 3NA3\u00a0, 4NA3, CHEMENG 2E04\u00a0, CIVENG 2E03\u00a0, ENGPHYS 2CE4, 3NM4\u00a0, MECHENG 3F04\u00a0. Not open to students in a Software Engineering or Mechatronics Engineering program"
+  ],
+  "prereq_links": [
+    {
+      "code": "MATH 1AA3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278231"
+    },
+    {
+      "code": "1ZB3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278241"
+    },
+    {
+      "code": "MATH 1B03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+    },
+    {
+      "code": "1ZC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+    },
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "MATH 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278243"
+    },
+    {
+      "code": "2Z03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278248"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "COMPENG 3SK3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278819"
+    },
+    {
+      "code": "MECHTRON 3X03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281184"
+    },
+    {
+      "code": "4X03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280035"
+    },
+    {
+      "code": "MECHTRON 3X03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281184"
+    },
+    {
+      "code": "MATH 3NA3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280222"
+    },
+    {
+      "code": "CHEMENG 2E04",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280557"
+    },
+    {
+      "code": "CIVENG 2E03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279824"
+    },
+    {
+      "code": "3NM4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280585"
+    },
+    {
+      "code": "MECHENG 3F04",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278294"
+    }
+  ]
+}

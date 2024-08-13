@@ -1,0 +1,53 @@
+{
+  "code": "COMPSCI 2LC3",
+  "title": "Logical Reasoning for Computer Science",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280723",
+  "description": "Introduction to logic and proof techniques for practical reasoning: propositional logic, predicate logic, structural induction; rigorous proofs in discrete mathematics and programming.",
+  "prerequisites": [
+    "Prerequisite(s):\u00a0COMPSCI 1DM3\u00a0, 1JC3\u00a0; one of COMPSCI 1MD3\u00a0, 1XC3\u00a0, 1XD3\u00a0, MATH 1MP3\u00a0, and registration in Mathematics and Computer Science or, in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPSCI 2DM3, SFWRENG 2DM3"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (two hours); first term; may be offered also in the second term",
+  "courseText": [
+    "COMPSCI 2LC3 - Logical Reasoning for Computer Science 3 unit(s)",
+    "Introduction to logic and proof techniques for practical reasoning: propositional logic, predicate logic, structural induction; rigorous proofs in discrete mathematics and programming.",
+    "Three lectures, one tutorial (two hours); first term; may be offered also in the second term",
+    "Prerequisite(s):\u00a0COMPSCI 1DM3\u00a0, 1JC3\u00a0; one of COMPSCI 1MD3\u00a0, 1XC3\u00a0, 1XD3\u00a0, MATH 1MP3\u00a0, and registration in Mathematics and Computer Science or, in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.",
+    "Antirequisite(s): COMPSCI 2DM3, SFWRENG 2DM3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 1DM3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"
+    },
+    {
+      "code": "1JC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278829"
+    },
+    {
+      "code": "COMPSCI 1MD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+    },
+    {
+      "code": "1XC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+    },
+    {
+      "code": "1XD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+    },
+    {
+      "code": "MATH 1MP3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 2DM3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"
+    }
+  ]
+}

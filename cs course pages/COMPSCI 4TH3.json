@@ -1,0 +1,38 @@
+{
+  "code": "COMPSCI 4TH3",
+  "title": "Theory of Computation",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280387",
+  "description": "Formal languages, models of computation, decidability, reduction techniques, time and space complexity classes.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, 2C03"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 4TH3"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 4TH3 - Theory of Computation 3 unit(s)",
+    "Formal languages, models of computation, decidability, reduction techniques, time and space complexity classes.",
+    "Three lectures, one tutorial (one hour); one term",
+    "Prerequisite(s): COMPSCI 2AC3\u00a0\u00a0or 2FA3, 2C03",
+    "Antirequisite(s): SFWRENG 4TH3",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2AC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280721"
+    },
+    {
+      "code": "2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 4TH3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280485"
+    }
+  ]
+}

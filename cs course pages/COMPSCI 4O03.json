@@ -1,0 +1,33 @@
+{
+  "code": "COMPSCI 4O03",
+  "title": "Linear Optimization",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278850",
+  "description": "Modelling and solutions for engineering and science problems using linear optimization, including networks, transportation, assignment, and scheduling problems. Solution methods include combinatorial algorithms such as simplex methods, primal-dual formulations, branch and bound formulations for mixed integer programming, and heuristics.",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2C03"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 3O03\u00a0, 4O03. Not open to students in a Software Engineering or Mechatronics Engineering program"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); first term",
+  "courseText": [
+    "COMPSCI 4O03 - Linear Optimization 3 unit(s)",
+    "Modelling and solutions for engineering and science problems using linear optimization, including networks, transportation, assignment, and scheduling problems. Solution methods include combinatorial algorithms such as simplex methods, primal-dual formulations, branch and bound formulations for mixed integer programming, and heuristics.",
+    "Three lectures, one tutorial (one hour); first term",
+    "Prerequisite(s): COMPSCI 2C03",
+    "Antirequisite(s): SFWRENG 3O03\u00a0, 4O03. Not open to students in a Software Engineering or Mechatronics Engineering program"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 3O03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280032"
+    }
+  ]
+}

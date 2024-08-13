@@ -1,0 +1,22 @@
+{
+  "code": "COMPSCI 4TI3",
+  "title": "Fundamentals of Image Processing",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280361",
+  "description": "Discrete-time signals and systems, digital filter design, photons to pixels, linear filtering, edge-detection, non-linear filtering, multi-scale transforms, motion estimation.",
+  "prerequisites": [
+    "Prerequisite(s): Registration in Level III or above of a program offered by the Department of Computing and Software",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures; one term",
+  "courseText": [
+    "COMPSCI 4TI3 - Fundamentals of Image Processing 3 unit(s)",
+    "Discrete-time signals and systems, digital filter design, photons to pixels, linear filtering, edge-detection, non-linear filtering, multi-scale transforms, motion estimation.",
+    "Three lectures; one term",
+    "Prerequisite(s): Registration in Level III or above of a program offered by the Department of Computing and Software",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [],
+  "antireq_links": []
+}

@@ -1,0 +1,45 @@
+{
+  "code": "COMPSCI 4AL3",
+  "title": "Applications of Machine Learning",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281970",
+  "description": "Overview of data engineering. Human-computation architectures. Supervised approaches (neural networks). Unsupervised approaches (clustering/topic modelling). Human-in-the-loop approaches (reinforcement learning).",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2C03\u00a0, COMPSCI 2ME3\u00a0, STATS 2D03\u00a0\u00a0or 3Y03"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 4AL3"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); first term",
+  "courseText": [
+    "COMPSCI 4AL3 - Applications of Machine Learning 3 unit(s)",
+    "Overview of data engineering. Human-computation architectures. Supervised approaches (neural networks). Unsupervised approaches (clustering/topic modelling). Human-in-the-loop approaches (reinforcement learning).",
+    "Three lectures, one tutorial (one hour); first term",
+    "Prerequisite(s): COMPSCI 2C03\u00a0, COMPSCI 2ME3\u00a0, STATS 2D03\u00a0\u00a0or 3Y03",
+    "Antirequisite(s): SFWRENG 4AL3"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "COMPSCI 2ME3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278835"
+    },
+    {
+      "code": "STATS 2D03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+    },
+    {
+      "code": "3Y03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 4AL3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281979"
+    }
+  ]
+}

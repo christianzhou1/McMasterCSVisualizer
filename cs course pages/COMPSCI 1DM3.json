@@ -1,0 +1,49 @@
+{
+  "code": "COMPSCI 1DM3",
+  "title": "Discrete Mathematics for Computer Science",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718",
+  "description": "Sets, functions, relations, trees and graphs; counting principles, modular arithmetic, discrete probabilities; induction and recursion, recurrence relations.",
+  "prerequisites": [
+    "Prerequisite(s): One of the following:",
+    "\u2022 Registration in Computer Science 1 and one of MATH 1B03\u00a0, 1ZC3",
+    "\u2022 One of MATH 1B03\u00a0, 1ZC3\u00a0\u00a0with a result of at least B"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): COMPSCI 1FC3, 2DM3, SFWRENG 2DM3\u00a0, 2E03, 2F03"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (two hours), second term; may be offered also in the first term",
+  "courseText": [
+    "COMPSCI 1DM3 - Discrete Mathematics for Computer Science 3 unit(s)",
+    "Sets, functions, relations, trees and graphs; counting principles, modular arithmetic, discrete probabilities; induction and recursion, recurrence relations.",
+    "Three lectures, one tutorial (two hours), second term; may be offered also in the first term",
+    "Prerequisite(s): One of the following:",
+    "\u2022 Registration in Computer Science 1 and one of MATH 1B03\u00a0, 1ZC3",
+    "\u2022 One of MATH 1B03\u00a0, 1ZC3\u00a0\u00a0with a result of at least B",
+    "Antirequisite(s): COMPSCI 1FC3, 2DM3, SFWRENG 2DM3\u00a0, 2E03, 2F03"
+  ],
+  "prereq_links": [
+    {
+      "code": "MATH 1B03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+    },
+    {
+      "code": "1ZC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+    },
+    {
+      "code": "MATH 1B03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+    },
+    {
+      "code": "1ZC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 2DM3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279706"
+    }
+  ]
+}

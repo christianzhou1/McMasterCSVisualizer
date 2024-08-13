@@ -1,0 +1,42 @@
+{
+  "code": "COMPSCI 3GC3",
+  "title": "Computer Graphics",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278841",
+  "description": "Mathematical foundations, the graphics pipeline, geometrical transformations, 3D visualization, clipping, illumination and shading models and the impact of graphics on society.",
+  "prerequisites": [
+    "Prerequisite(s): MATH 1B03\u00a0\u00a0or 1ZC3\u00a0, and COMPSCI 2C03"
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 3GC3"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (two hours every other week); one term",
+  "courseText": [
+    "COMPSCI 3GC3 - Computer Graphics 3 unit(s)",
+    "Mathematical foundations, the graphics pipeline, geometrical transformations, 3D visualization, clipping, illumination and shading models and the impact of graphics on society.",
+    "Three lectures, one tutorial (two hours every other week); one term",
+    "Prerequisite(s): MATH 1B03\u00a0\u00a0or 1ZC3\u00a0, and COMPSCI 2C03",
+    "Antirequisite(s): SFWRENG 3GC3",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "MATH 1B03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278232"
+    },
+    {
+      "code": "1ZC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278242"
+    },
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 3GC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279715"
+    }
+  ]
+}

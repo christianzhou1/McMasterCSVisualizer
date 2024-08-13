@@ -1,0 +1,27 @@
+{
+  "code": "COMPSCI 4AR3",
+  "title": "Software Architecture",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280360",
+  "description": "Software architecture concepts; architectural styles; design patterns, components, libraries, configurations; modelling languages; software re-engineering.",
+  "prerequisites": [
+    "Prerequisite(s): Credit or registration in COMPSCI 3RA3",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial; one term",
+  "courseText": [
+    "COMPSCI 4AR3 - Software Architecture 3 unit(s)",
+    "Software architecture concepts; architectural styles; design patterns, components, libraries, configurations; modelling languages; software re-engineering.",
+    "Three lectures, one tutorial; one term",
+    "Prerequisite(s): Credit or registration in COMPSCI 3RA3",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 3RA3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278844"
+    }
+  ],
+  "antireq_links": []
+}

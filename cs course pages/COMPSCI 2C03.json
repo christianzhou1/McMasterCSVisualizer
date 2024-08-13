@@ -1,0 +1,55 @@
+{
+  "code": "COMPSCI 2C03",
+  "title": "Data Structures and Algorithms",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832",
+  "description": "Basic data structures: stacks, queues, hash tables, and binary trees; searching and sorting; graph representations and algorithms, including minimum spanning trees, traversals, shortest paths; introduction to algorithmic design strategies; correctness and performance analysis.",
+  "prerequisites": [
+    "Prerequisite(s):",
+    "\u2022 COMPSCI 1DM3\u00a0\u00a0or 2DM3; COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0\u00a0or 1MD3\u00a0\u00a0or MATH 1MP3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science."
+  ],
+  "antirequisites": [
+    "Antirequisite(s): SFWRENG 2C03\u00a0, COMPENG 3SM4"
+  ],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); first term; may be offered also in the first term",
+  "courseText": [
+    "COMPSCI 2C03 - Data Structures and Algorithms 3 unit(s)",
+    "Basic data structures: stacks, queues, hash tables, and binary trees; searching and sorting; graph representations and algorithms, including minimum spanning trees, traversals, shortest paths; introduction to algorithmic design strategies; correctness and performance analysis.",
+    "Three lectures, one tutorial (one hour); first term; may be offered also in the first term",
+    "Prerequisite(s):",
+    "\u2022 COMPSCI 1DM3\u00a0\u00a0or 2DM3; COMPSCI 1XC3\u00a0\u00a0or 1XD3\u00a0\u00a0or 1MD3\u00a0\u00a0or MATH 1MP3\u00a0, and registration in any Computer Science program (see Department Note 3 in the course listing) or in the Minor in Computer Science.",
+    "Antirequisite(s): SFWRENG 2C03\u00a0, COMPENG 3SM4"
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 1DM3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280718"
+    },
+    {
+      "code": "COMPSCI 1XC3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280719"
+    },
+    {
+      "code": "1XD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=280720"
+    },
+    {
+      "code": "1MD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278830"
+    },
+    {
+      "code": "MATH 1MP3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279973"
+    }
+  ],
+  "antireq_links": [
+    {
+      "code": "SFWRENG 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+    },
+    {
+      "code": "COMPENG 3SM4",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281012"
+    }
+  ]
+}

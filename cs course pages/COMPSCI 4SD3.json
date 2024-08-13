@@ -1,0 +1,43 @@
+{
+  "code": "COMPSCI 4SD3",
+  "title": "Data-Driven Algorithms for Sequential Decision Making",
+  "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281974",
+  "description": "Problems and algorithmic solutions in sequential decision making based on data, as appear in many applications including online ad-placement, A/B testing for software services, financial portfolio management, medical trials, and more. Topics include best-arm identification, multi-armed bandit problems and solutions, online learning, prediction with expert advice, and optimal stopping problems",
+  "prerequisites": [
+    "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or MECHTRON 2MD3\u00a0; STATS 2D03\u00a0\u00a0or 3Y03",
+    "Offered on an irregular basis."
+  ],
+  "antirequisites": [],
+  "units": "3",
+  "schedule": "Three lectures, one tutorial (one hour); one term",
+  "courseText": [
+    "COMPSCI 4SD3 - Data-Driven Algorithms for Sequential Decision Making 3 unit(s)",
+    "Problems and algorithmic solutions in sequential decision making based on data, as appear in many applications including online ad-placement, A/B testing for software services, financial portfolio management, medical trials, and more. Topics include best-arm identification, multi-armed bandit problems and solutions, online learning, prediction with expert advice, and optimal stopping problems",
+    "Three lectures, one tutorial (one hour); one term",
+    "Prerequisite(s): COMPSCI 2C03\u00a0\u00a0or SFWRENG 2C03\u00a0\u00a0or MECHTRON 2MD3\u00a0; STATS 2D03\u00a0\u00a0or 3Y03",
+    "Offered on an irregular basis."
+  ],
+  "prereq_links": [
+    {
+      "code": "COMPSCI 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=278832"
+    },
+    {
+      "code": "SFWRENG 2C03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279704"
+    },
+    {
+      "code": "MECHTRON 2MD3",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=281004"
+    },
+    {
+      "code": "STATS 2D03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279739"
+    },
+    {
+      "code": "3Y03",
+      "link": "https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=56&coid=279748"
+    }
+  ],
+  "antireq_links": []
+}
