@@ -108,7 +108,7 @@ for course in courses:
 
   course["antireq_links"] = [{"code": link.get_text(), "link": rootUrl + link.get('href')} for link in course_links if any(link.get_text() in string for string in course["antirequisites"])]
 
-  filename = course['code'] + ".json"
+  filename = course['code'].replace("/", "_") + ".json"
   filepath = os.path.join(directory, filename)
   os.makedirs(os.path.dirname(filepath), exist_ok=True)
   json.dump(course, open(filepath, 'w'), indent=2)
