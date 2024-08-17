@@ -15,10 +15,11 @@ const config: Config = {
       },
       colors: {
         "mac-yellow": "#F9B83E",
-        "mac-red": "#79003C",
+        "mac-light-yellow": "#f3c761",
+        "mac-red": "#850044",
         "mac-light-red": "#9B406D",
         "mac-dark-red": "#740232",
-        "mac-grey": "#46505C",
+        "mac-grey": "#535f65",
         "mac-light-grey": "#435362",
         "mac-off-white": "#F6F7F8",
       },

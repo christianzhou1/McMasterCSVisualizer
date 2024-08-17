@@ -8,10 +8,10 @@ interface NavItemProps {
 
 export default function NavItem({ href, children }: NavItemProps) {
   return (
-    <li className="min-w-20 h-full bg-stone-800 text-white">
+    <li className="sm:w-24 w-24 h-full bg-stone-800 text-white">
       <Link
         href={href}
-        className="flex justify-center items-center h-full w-full bg-red-600"
+        className="flex justify-center items-center h-full w-full bg-mac-yellow text-black"
       >
         {children}
       </Link>

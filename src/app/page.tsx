@@ -6,7 +6,7 @@ import { Container } from "@/components/Container";
 export default function Home() {
   return (
     <main className="">
-      <Container className=" overflow-y-auto">
+      <Container className="overflow-y-auto">
         {/* <Header /> */}
         <div id="main-content" className="flex w-full justify-center flex-grow">
           <h1
