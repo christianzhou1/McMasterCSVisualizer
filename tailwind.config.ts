@@ -7,6 +7,15 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    colors: {
+      "mac-yellow": "#F9B83E",
+      "mac-red": "#79003C",
+      "mac-light-red": "#9B406D",
+      "mac-dark-red": "#76133A",
+      "mac-grey": "#46505C",
+      "mac-light-grey": "#435362",
+      "mac-off-white": "#F6F7F8",
+    },
     extend: {
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
