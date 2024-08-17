@@ -1,25 +1,23 @@
 import Image from "next/image";
 // import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { Container } from "@/components/Container";
 
 export default function Home() {
   return (
-    <main>
-      <div
-        id="main-container"
-        className="flex flex-col min-h-screen overflow-y-auto"
-      >
+    <main className="">
+      <Container className=" overflow-y-auto">
         {/* <Header /> */}
         <div id="main-content" className="flex w-full justify-center flex-grow">
           <h1
             id="title"
-            className="flex px-3 bg-red-950 text-3xl mt-20 h-52 w-full sm:w-4/5 justify-start sm:justify-center items-center"
+            className="flex px-3 bg-mac-dark-red text-3xl mt-20 h-52 w-full sm:w-4/5 justify-start sm:justify-center items-center"
           >
             McMaster Computer Science Visualizer
           </h1>
         </div>
         <Footer />
-      </div>
+      </Container>
     </main>
   );
 }

@@ -4,9 +4,9 @@ import NavItem from "./NavItem";
 
 export default function Navigation() {
   return (
-    <nav className="flex justify-between px-3 items-center h-16 bg-red-950">
+    <nav className="flex sm:justify-between sm:flex-row flex-col px-3 items-center sm:h-16 h-full bg-mac-dark-red">
       <Link href="/">McMaster Computer Science Visualizer</Link>
-      <ul className="flex h-full py-3 items-center justify-end gap-3">
+      <ul className="flex sm:flex-row flex-col h-full py-3 items-center md:gap-3 gap-1 md:px-0">
         <NavItem href="/about">About</NavItem>
         <NavItem href="/courses">Courses</NavItem>
         <NavItem href="/visualizer">Visualizer</NavItem>
