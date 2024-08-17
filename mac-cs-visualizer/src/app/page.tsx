@@ -1,6 +1,30 @@
 import Image from "next/image";
+// import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 export default function Home() {
+  return (
+    <main>
+      <div
+        id="main-container"
+        className="flex flex-col min-h-screen overflow-y-auto"
+      >
+        {/* <Header /> */}
+        <div id="main-content" className="flex w-full justify-center flex-grow">
+          <h1
+            id="title"
+            className="flex px-3 bg-red-950 text-3xl mt-20 h-52 w-full sm:w-4/5 justify-start sm:justify-center items-center"
+          >
+            McMaster Computer Science Visualizer
+          </h1>
+        </div>
+        <Footer />
+      </div>
+    </main>
+  );
+}
+
+/* export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
@@ -110,4 +134,4 @@ export default function Home() {
       </div>
     </main>
   );
-}
+} */
