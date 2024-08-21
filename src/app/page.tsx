@@ -5,20 +5,22 @@ import { Container } from "@/components/Container";
 
 export default function Home() {
   return (
-    <main className="">
-      <Container className="overflow-y-auto">
-        {/* <Header /> */}
-        <div id="main-content" className="flex w-full justify-center flex-grow">
-          <h1
-            id="title"
-            className="flex px-3 bg-mac-dark-red text-3xl mt-20 h-52 w-full sm:w-4/5 justify-start sm:justify-center items-center"
-          >
-            McMaster Computer Science Visualizer
-          </h1>
-        </div>
-        <Footer />
-      </Container>
-    </main>
+    <Container
+      as="main"
+      id="main-content"
+      className="justify-center flex-grow overflow-y-auto"
+    >
+      {/* <Header /> */}
+
+      <h1
+        id="title"
+        className="flex px-3 bg-mac-off-white text-3xl h-44 w-full justify-start sm:justify-center items-center text-black"
+      >
+        McMaster Computer Science Visualizer
+      </h1>
+
+      <Footer />
+    </Container>
   );
 }
 

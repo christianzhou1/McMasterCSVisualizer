@@ -20,7 +20,7 @@ const config: Config = {
         "mac-light-red": "#9B406D",
         "mac-dark-red": "#740232",
         "mac-grey": "#535f65",
-        "mac-light-grey": "#435362",
+        "mac-light-grey": "#ececec",
         "mac-off-white": "#F6F7F8",
       },
     },
