@@ -16,7 +16,7 @@ export const Container = ({
     <Element
       id={id}
       {...rest}
-      className={`flex flex-col w-full max-w-screen h-screen m-auto bg-white ${className}`}
+      className={`flex flex-col w-full max-w-screen h-screen m-auto bg-white text-black ${className}`}
     >
       {children}
     </Element>
